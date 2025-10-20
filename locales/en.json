@@ -1,0 +1,939 @@
+{
+  "partner": {
+    "meta": {
+      "title": "Become a GTC Partner in the Saudi Today",
+      "description": "Join GTC as a Partner in Saudi. Earn up to 80% in Rebates, offer top bonuses to traders, and grow with a regulated global broker."
+    },
+    "banner": {
+      "no": "80%",
+      "title": "in Rebates",
+      "para1": "Saudi’s Top Forex Partners Now Earn Up to",
+      "para2": "with GTC",
+      "para3": "Join a multi-regulated broker trusted worldwide. Your traders get a tradable bonus just for switching to us, plus you earn up to 80% in Rebates with fast payouts, multilingual support, and no setup costs.",
+      "btnText": "Get 80% in Rebates"
+    },
+    "layer": {
+      "column1": "Up to 80% in Rebates Paid On Demand",
+      "column2": "Become an FX Partner in Just a Few Clicks",
+      "column3": "Dynamic Leverage Up to 1:2000",
+      "column4": "Your Traders Get a Tradable Bonus",
+      "column5": "Full Marketing & Event Support Provided",
+      "column6": "Multi-Regulated Brokerage: SCA, FSC"
+    },
+    "comparisonTable": {
+      "title": "Here’s what your traders will get when you refer them to GTC",
+      "cta": "Refer Your Traders",
+      "colHeader1": "Feature",
+      "colHeader2": "Your Broker",
+      "col1": {
+        "point1": "Average EURUSD Spread",
+        "point2": "Leverage",
+        "point3": "Withdrawal Time",
+        "point4": "Scalping Rule",
+        "point5": "Slippage During News",
+        "point6": "Support Quality",
+        "point7": "Loyalty Rewards"
+      },
+      "col2": {
+        "point1": "3 pips",
+        "point2": "1:500",
+        "point3": "24 hours",
+        "point4": "3 minutes",
+        "point5": "Increased",
+        "point6": "Scripted replies",
+        "point7": "❌"
+      },
+      "col3": {
+        "point1": "0 pips",
+        "point2": "1:2000",
+        "point3": "Instant – 10 hours max",
+        "point4": "1 minute",
+        "point5": "Unchanged",
+        "point6": "Real human care",
+        "point7": "GTC VIP + Margin Bonus"
+      }
+    },
+    "payMore": {
+      "subtitle": "An FX Partnership Programme That",
+      "title": "Pays More Than Just Commission",
+      "intro": "Welcome to a partnership built for performance. At GTC, we don’t just give you up to 80% in Rebates; we give you the tools to grow your business.",
+      "outro": "From real trader bonuses to marketing support and instant payouts, this is the Forex partnership programme serious partners are switching to.",
+      "cta": "Partner with GTC",
+      "features": {
+        "feature1": {
+          "title": "Earn Up to 80% in Rebates",
+          "description": "No caps, no limits. Just real payouts you can count on."
+        },
+        "feature2": {
+          "title": "Tradeable Bonus for Your Traders",
+          "description": "Higher deposits, more volume, more commission for you."
+        },
+        "feature3": {
+          "title": "Events & Marketing Tools",
+          "description": "We’ll help you attract & convert more traders."
+        },
+        "feature4": {
+          "title": "Instant Commission Payouts",
+          "description": "Withdraw your partner earnings the moment they hit."
+        }
+      }
+    },
+    "broker": {
+      "heading": "A Broker You Can  Actually Trust",
+      "paragraph": "We’re not a fly-by-night operation. GTC is licensed and regulated in multiple respected jurisdictions. Here’s how we give you confidence to trade.",
+      "points": {
+        "p1": "Licensed by the UAE’s SCA, Mauritius' FSC, and South Africa's FSCA.",
+        "p2": "Headquartered in Dubai with nearly 1 million global traders.",
+        "p3": "World-class support with a real human touch.",
+        "p4": "Customer-first culture where service is strategy."
+      },
+      "bottomTitle": "Switch to a broker that doesn’t just say it, we prove it every day.",
+      "cta": "Start Earning"
+    },
+    "testimonials": {
+      "title": "What the Saudi’s FX Partners & Traders Are Saying",
+      "description": "Whether you’re a seasoned partner or just getting started, these partners made the switch and they or their traders haven’t looked back.",
+      "cta": "Join Us",
+      "list": {
+        "t1": {
+          "text": "“As an FX partner, getting up to 80% in Rebates and paid out instantly was a game changer. I moved my entire client book to GTC where they’re looked after.”",
+          "name": "Judi Izdihar Shamoon, Riyadh",
+          "stars": 5
+        },
+        "t2": {
+          "text": "“I run monthly trading classes in Saudi Arabia. GTC gave me banners, an LP, and real bonuses for my traders. The support is unreal!”",
+          "name": "Suoud Butrus Gaber, Jeddah",
+          "stars": 4
+        },
+        "t3": {
+          "text": "“My trading educator recommended GTC. I was sceptical at first, but now I see why he recommended them. The spreads, bonus, everything just works really well.”",
+          "name": "Kutaiba Abdul-Matin Awad, Dammam",
+          "stars": 5
+        },
+        "t4": {
+          "text": "“GTC doesn’t just talk, they deliver! I get paid on time, every time, and my traders are sticking around longer than ever. They also trade gold and GTC is great with them.”",
+          "name": "Yasser Nu'aym Bazzi, Riyadh",
+          "stars": 4
+        }
+      }
+    },
+    "growIB": {
+      "subtitle": "Start Earning More.",
+      "title": "Grow Your FX Partner Business with GTC",
+      "description1": "You’ve seen what GTC brings to the table. Now it’s your turn. Join the partnership programme that’s helping the Saudi’s FX partners scale faster, earn more, and build lasting trust with their traders.",
+      "description2": "Join us today, and your traders will thank you tomorrow.",
+      "cta": "Make the Switch"
+    },
+    "form": {
+      "heading": "Register Now",
+      "closeAlt": "Close the modal",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Mobile Number",
+      "country": "Country of Residence",
+      "otp": "OTP has been sent to given Email",
+      "getCode": "Get Code",
+      "sending": "Sending...",
+      "sendOtp": "Send OTP",
+      "password": "Password",
+      "confirmPassword": "Confirm Passowrd",
+      "verifyCode": "Verify Code",
+      "termsLabel": "Please accept the terms and conditions",
+      "termsText": "I confirm that I am over the age of 18, have read and agree to the ",
+      "conset": "I consent to GTC contacting me at reasonable times, and that my number is not on the Do Not Call Register (DNCR).",
+      "clientAgreement": "Client Agreement",
+      "privacyPolicy": "Privacy Policy",
+      "submit": "Submit Now",
+      "submitting": "Submitting...",
+      "otpSuccess": "Otp Verified Successfully!",
+      "otpFail": "Otp Verification Failed try again!",
+      "thankYou1": "Thank you for registering with GTC!",
+      "otpSent": "Otp sent successfully!",
+      "errors": {
+        "fullNameFormat": "Full name can only contain letters.",
+        "firstNameRequired": "First name is required",
+        "lastNameFormat": "Last name can only contain letters.",
+        "lastNameRequired": "Last name is required",
+        "emailInvalid": "Invalid email address",
+        "emailRequired": "Email is required",
+        "phoneRequired": "Phone number is required",
+        "countryRequired": "Country is required",
+        "otpLength": "OTP must be 6 digits",
+        "otpRequired": "OTP is required",
+        "passwordRequired": "Passord is required",
+        "confirmPasswordRequired": "Confirm password is required",
+        "passwordsMustMatch": "Password not match",
+        "termsRequired": "Please accept the terms and conditions"
+      },
+      "thankYou": "Thanks",
+      "almostThere": "You’re Almost There!",
+      "emailSent": "We’ve just sent you an email to {email}, which explains what happens next.",
+      "checkSpam": "It’s also a good idea to check your spam or junk folder as sometimes emails like to hide there. If the email we’ve sent you has made its way into your spam or junk folder, simply move it back into your inbox.",
+      "seeYou": "See you soon!",
+      "helpSection": {
+        "title": "Having trouble?",
+        "phoneLabel": "Contact us on",
+        "phone": "+971 800 667788",
+        "emailLabel": "or email the GTC Partnership Team at",
+        "email": "partners@gtcfx.com"
+      }
+    },
+    "thankYoumeta": {
+      "title": "Joining the GTC Partnership Programme Confirmation",
+      "description": "Welcome to a partnership built for performance. At GTC, we don’t just give you up to 80% in Rebates; we give you the tools to grow your business."
+    }
+  },
+  "footer": {
+    "riskWarningTitle": "Risk Warning:",
+    "riskWarningText": "Trading CFDs carries a high level of risk to your capital and you should only trade with money you can afford to lose. Trading CFDs may not be suitable for all investors, so please ensure that you fully understand the risks involved and seek independent advice if necessary. Please read and ensure you fully understand our Risk Disclosure.",
+    "company1": "GTC operates through multiple regulated entities: ( mention all entities please refer to the below sample GTC Global Ltd, regulated by the FSC Mauritius (License No. GB22200292) - apply to all entities ",
+    "company2": "GTC does not provide services in jurisdictions where such offerings would be contrary to local laws.",
+    "affiliateNoticeTitle": "Affiliate Notice:",
+    "affiliateNoticeText": "Affiliate/partner content is for referral and marketing purposes only and does not constitute financial advice."
+  },
+  "cookie": {
+    "message": "By clicking 'Agree', you agree to the storing of cookies on your device to enhance your user experience, site navigation, analyse site usage, and assist in our marketing efforts.",
+    "cta": "Agree",
+    "linkText": "Read our privacy policy here."
+  },
+  "privacyPolicy": {
+    "meta": {
+      "title": "Privacy Policy – GTC | Regulated Forex & CFD Broker",
+      "description": "Read GTCFX’s Privacy Policy to learn how we collect, use, and protect your personal data across our regulated platforms in Vanuatu, Mauritius, and UAE."
+    },
+    "header": {
+      "title": "Privacy Policy",
+      "subtitle": "Protecting your information across all GTC platforms and subdomains"
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "intro1": "This Privacy Policy applies to GTC, including all of its subdomains such as reg.gtcfx.com (and all other GTC-related subdomains), and covers how we handle your personal information.",
+      "intro2": "When we say “GTC,” “GTCFX,” “we,” “our,” or “us,” we’re referring to:",
+      "entity1": {
+        "title": "GTC Global Trade Capital Co. Ltd",
+        "line1": "Authorised by the Vanuatu Financial Services Commission (VFSC).",
+        "line2": "Licence Number: 40354.",
+        "line3": "Address: 1st Floor, B&P House, Kumul Highway, Port Vila, Vanuatu."
+      },
+      "entity2": {
+        "title": "GTC Global Ltd",
+        "line1": "Authorised by the Financial Services Commission of Mauritius.",
+        "line2": "Licence Number: GB22200292.",
+        "line3": "Address: The Cyberati Lounge, Ground Floor, The Catalyst, 40 Cybercity, 72201 Ebene, Mauritius."
+      }
+    },
+    "ourCommitment": {
+      "title": "Our Commitment",
+      "description": "At GTC, your privacy isn’t just a checkbox, it’s a priority. We’re committed to protecting your personal data and being fully transparent about how it’s collected, used, and safeguarded across all our domains.",
+      "subheading": "This policy explains:",
+      "point": {
+        "one": "What personal data we collect",
+        "two": "Why we collect it",
+        "three": "How we protect it",
+        "four": "Your rights and how to exercise them"
+      }
+    },
+    "personalData": {
+      "title": "The Personal Data We Collect",
+      "intro": "When you interact with GTC – whether through opening an account, visiting our site, or signing up on any of our landing pages, we may collect:",
+      "personal": {
+        "title": "Personal Information",
+        "items": {
+          "one": "Full name, date and place of birth, gender, and nationality.",
+          "two": "Contact details: email, phone number, residential address.",
+          "three": "Employment and income details."
+        }
+      },
+      "financial": {
+        "title": "Financial & Technical Data",
+        "items": {
+          "one": "Financial info: bank details, source of funds, trading history.",
+          "two": "Identity documents: passport, driving licence, national ID.",
+          "three": "Trading preferences and performance.",
+          "four": "IP address, device info, cookies, and platform usage."
+        }
+      },
+      "note": "We may also record phone calls and chat conversations for compliance and training."
+    },
+    "howWeUse": {
+      "title": "How We Use Your Information",
+      "description": "We only use your data when we have a lawful reason to do so.",
+      "points": {
+        "one": "To provide services – So we can set up and manage your trading account.",
+        "two": "To meet legal obligations – Including anti-money laundering and regulatory requirements.",
+        "three": "To protect our business interests – Like improving our platforms, analysing user behaviour, and managing risk.",
+        "four": "With your consent – For email marketing and exclusive webinar invites.",
+        "five": "For customer support – To help you with requests or resolve issues.",
+        "six": "To improve our website experience – Using cookies, geolocation, and session tracking.",
+        "seven": "To keep records – For auditing, legal, and tax reasons."
+      },
+      "footer": "We’ll never sell your data. Period."
+    },
+    "whoWeShare": {
+      "title": "Who We Share Your Data With",
+      "description": "Your data may be shared with:",
+      "items": {
+        "one": "Other GTC entities (e.g. regulated arms in Vanuatu and Mauritius).",
+        "two": "Payment providers and identity verification services.",
+        "three": "Legal, compliance, and financial service partners.",
+        "four": "Regulatory authorities, when required by law.",
+        "five": "Marketing tools (but never for third-party marketing)."
+      },
+      "footer": "We only share data on a need-to-know basis and make sure any third party meets strict data protection standards."
+    },
+    "cookiesTracking": {
+      "title": "Cookies & Tracking",
+      "description": "We use cookies and tracking tech on all GTCFX domains to:",
+      "points": {
+        "one": "Remember your preferences.",
+        "two": "Show you relevant content.",
+        "three": "Analyse website usage.",
+        "four": "Run remarketing campaigns."
+      },
+      "footer": "You can manage your cookie settings in your browser. For more info, see our",
+      "linkText": "Cookies Policy"
+    },
+
+    "internationalTransfers": {
+      "title": "International Transfers",
+      "description": "Because we operate globally, your data might be processed outside the EEA. Whenever we do this, we make sure your data is just as safe as it would be under EU laws, using safeguards like GDPR-compliant contracts."
+    },
+
+    "yourRights": {
+      "title": "Your Rights",
+      "description": "Here’s what you’re entitled to under data protection laws:",
+      "points": {
+        "one": "Access your data.",
+        "two": "Update or correct it.",
+        "three": "Request deletion if we no longer need it.",
+        "four": "Limit how we use it.",
+        "five": "Withdraw consent at any time.",
+        "six": "Request transfer of your data to another provider.",
+        "seven": "Object to marketing or data profiling."
+      },
+      "footer": "To exercise any of these rights, email:",
+      "email": "support@gtcfx.com"
+    },
+    "dataRetention": {
+      "title": "Data Retention",
+      "intro": "We’ll keep your data:",
+      "points": {
+        "one": {
+          "icon": "∞",
+          "text": "For as long as your account is active."
+        },
+        "two": {
+          "icon": "5+",
+          "text": "For at least 5 years after closing your account, to meet AML and regulatory obligations."
+        },
+        "three": {
+          "icon": "⚖️",
+          "text": "Longer if required for legal, tax, or dispute purposes."
+        }
+      }
+    },
+    "dataSafety": {
+      "title": "Keeping Your Data Safe",
+      "description": "We store your data in secure servers, limit staff access, and train our team regularly on data protection. We also use encryption, access controls, and strict monitoring to keep your data protected."
+    },
+    "policyUpdates": {
+      "title": "Updates to This Policy",
+      "description": "We may update this Privacy Policy from time to time. Any updates will be posted on gtcfx.com and across relevant subdomains."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Questions? Need help with your data rights?",
+      "buttonText": "Email us at support@gtcfx.com",
+      "email": "support@gtcfx.com"
+    }
+  },
+  "oman": {
+    "meta": {
+      "title": "Become a GTC Partner in the Oman Today",
+      "description": "Join GTC as a Partner in Oman. Earn up to 80% in Rebates, offer top bonuses to traders, and grow with a regulated global broker."
+    },
+    "para1": "Omani’s Top IBs Now Earn Up to",
+    "column2": "Become an IB in Just a Few Clicks",
+    "subtitle": "An IB Programme That",
+    "outro": "From realtrader bonuses to marketing support and instant payouts,this is the IB programme serious partners are switching to.",
+    "title": "Grow Your IB Business with GTC",
+    "description1": "You’ve seen what GTC brings to the table. Now it’s your turn. Join the IB programme that’s helping Omani’s partners scale faster, earn more, and build lasting trust with their traders.",
+    "description": "Whether you’re a seasoned IB or just getting started, these partners made the switch and they or their traders haven’t looked back.",
+    "title1": "What the Omani’s IBs & Traders Are Saying",
+    "list": {
+      "t1": {
+        "text": "“As an IB, getting up to 80% in Rebates and paid out instantly was a game changer. I moved my entire client book to GTC where they’re looked after”",
+        "name": "Judi Izdihar Shamoon, Muscat",
+        "stars": 5
+      },
+      "t2": {
+        "text": "“I run monthly trading classes in Oman. GTC gave me banners, an LP, and real bonuses for my traders. The support is unreal!”",
+        "name": "Suoud Butrus Gaber, Nizwa",
+        "stars": 4
+      },
+      "t3": {
+        "text": "“My trading educator recommended GTC. I was sceptical at first, but now I see why he recommended them. The spreads, bonus, everything just works really well.”",
+        "name": "Kutaiba Abdul-Matin Awad, Salalah",
+        "stars": 5
+      },
+      "t4": {
+        "text": "“GTC doesn’t just talk, they deliver! I get paid on time, every time, and my traders are sticking around longer than ever. They also trade gold and GTC is great with them.”",
+        "name": "Yasser Nu'aym Bazzi, Muscat",
+        "stars": 4
+      }
+    }
+  },
+  "bahrain": {
+    "meta": {
+      "title": "Become a GTC Partner in the Bahrain Today",
+      "description": "Join GTC as a Partner in Bahrain. Earn up to 80% in Rebates, offer top bonuses to traders, and grow with a regulated global broker."
+    },
+    "para1": "Bahrain’s Top IBs Now Earn Up to",
+    "description1": "You’ve seen what GTC brings to the table. Now it’s your turn. Join the IB programme that’s helping Bahrain’s partners scale faster, earn more, and build lasting trust with their traders.",
+    "title1": "What the Bahrain’s IBs & Traders Are Saying",
+    "list": {
+      "t1": {
+        "text": "“As an IB, getting up to 80% in Rebates and paid out instantly was a game changer. I moved my entire client book to GTC where they’re looked after”",
+        "name": "Judi Izdihar Shamoon, Manama",
+        "stars": 5
+      },
+      "t2": {
+        "text": "“I run monthly trading classes in Bahrain. GTC gave me banners, an LP, and real bonuses for my traders. The support is unreal!”",
+        "name": "Suoud Butrus Gaber, Al-Muharraq",
+        "stars": 4
+      },
+      "t3": {
+        "text": "“My trading educator recommended GTC. I was sceptical at first, but now I see why he recommended them. The spreads, bonus, everything just works really well.”",
+        "name": "Kutaiba Abdul-Matin Awad, Al-Muharraq",
+        "stars": 5
+      },
+      "t4": {
+        "text": "“GTC doesn’t just talk, they deliver! I get paid on time, every time, and my traders are sticking around longer than ever. They also trade gold and GTC is great with them.”",
+        "name": "Yasser Nu'aym Bazzi, Manama",
+        "stars": 4
+      }
+    }
+  },
+  "qatar": {
+    "meta": {
+      "title": "Become a GTC Partner in the Qatar Today",
+      "description": "Join GTC as a Partner in Qatar. Earn up to 80% in Rebates, offer top bonuses to traders, and grow with a regulated global broker."
+    },
+    "para1": "Qatar’s Top IBs Now Earn Up to",
+    "description1": "You’ve seen what GTC brings to the table. Now it’s your turn. Join the IB programme that’s helping Qatar’s partners scale faster, earn more, and build lasting trust with their traders.",
+    "title1": "What the Qatar’s IBs & Traders Are Saying",
+    "list": {
+      "t1": {
+        "text": "“As an IB, getting up to 80% in Rebates and paid out instantly was a game changer. I moved my entire client book to GTC where they’re looked after”",
+        "name": "Judi Izdihar Shamoon, Doha",
+        "stars": 5
+      },
+      "t2": {
+        "text": "“I run monthly trading classes in Qatar. GTC gave me banners, an LP, and real bonuses for my traders. The support is unreal!”",
+        "name": "Suoud Butrus Gaber, Al Khor",
+        "stars": 4
+      },
+      "t3": {
+        "text": "“My trading educator recommended GTC. I was sceptical at first, but now I see why he recommended them. The spreads, bonus, everything just works really well.”",
+        "name": "Kutaiba Abdul-Matin Awad, Al Rayyan",
+        "stars": 5
+      },
+      "t4": {
+        "text": "“GTC doesn’t just talk, they deliver! I get paid on time, every time, and my traders are sticking around longer than ever. They also trade gold and GTC is great with them.”",
+        "name": "Yasser Nu'aym Bazzi, Doha",
+        "stars": 4
+      }
+    }
+  },
+  "egypt": {
+    "meta": {
+      "title": "Become a GTC Partner in the Egypt Today",
+      "description": "Join GTC as a Partner in Egypt. Earn up to 80% in Rebates, offer top bonuses to traders, and grow with a regulated global broker."
+    },
+    "para1": "Egypt’s Top IBs Now Earn Up to",
+    "description1": "You’ve seen what GTC brings to the table. Now it’s your turn. Join the IB programme that’s helping Egypt’s partners scale faster, earn more, and build lasting trust with their traders.",
+    "title1": "What the Egypt’s IBs & Traders Are Saying",
+    "list": {
+      "t1": {
+        "text": "“As an IB, getting up to 80% in Rebates and paid out instantly was a game changer. I moved my entire client book to GTC where they’re looked after”",
+        "name": "Judi Izdihar Shamoon, Cairo",
+        "stars": 5
+      },
+      "t2": {
+        "text": "“I run monthly trading classes in Egypt. GTC gave me banners, an LP, and real bonuses for my traders. The support is unreal!”",
+        "name": "Suoud Butrus Gaber, Luxor",
+        "stars": 4
+      },
+      "t3": {
+        "text": "“My trading educator recommended GTC. I was sceptical at first, but now I see why he recommended them. The spreads, bonus, everything just works really well.”",
+        "name": "Kutaiba Abdul-Matin Awad, Alexandria",
+        "stars": 5
+      },
+      "t4": {
+        "text": "“GTC doesn’t just talk, they deliver! I get paid on time, every time, and my traders are sticking around longer than ever. They also trade gold and GTC is great with them.”",
+        "name": "Yasser Nu'aym Bazzi, Cairo",
+        "stars": 4
+      }
+    }
+  },
+  "switchToGtc": {
+    "meta": {
+      "title": "Switch to GTC for Faster Withdrawals & Lower Spreads",
+      "description": "Switch to GTC and experience tighter spreads, instant withdrawals, fair scalping rules, and better bonuses. Trade smarter with a broker that gets you."
+    },
+    "banner": {
+      "subTitle": "Your Brokerage Profits from Your Trading Pain.",
+      "title1": "You Deserve Better Than 3 Pip Spreads.",
+      "title2": "Trade Without the Tricks.",
+      "title3": "Every Trade Should Count. Not Just Theirs.",
+      "title4": "Your Broker’s Holding You Back.",
+      "para1": "Make the move to a brokerage that actually puts you first. Faster withdrawals, tighter spreads, fairer conditions. You trade & we’ll take care of the rest.",
+      "cta": "Switch Now",
+      "list": {
+        "item1": "2 Pip Spread Instead of 3",
+        "item2": "Instant & Same Day Withdrawals",
+        "item3": "Scalping Allowed After 60 Seconds",
+        "item4": "No Slippage During News Events",
+        "item5": "Real Margin Bonus with Real Cashback",
+        "item6": "Multi-Regulated Brokerage SCA & FSC"
+      },
+      "tableHeading": "Comparison Snapshot Your Broker vs GTC"
+    },
+    "bonusSection": {
+      "heading": "Switch & Get a Bonus That Boosts Your Margin, Not Your Hopes",
+      "description1": "Forget losable or tricky bonuses. When you switch to GTC and deposit $500 or more, we’ll match your deposit with a Margin Bonus. You get extra trading margin with real cashback rewards.",
+      "description2": "Trade FX, gold, metals or oil. Hit the cashback target.",
+      "description3": "Withdraw your reward.",
+      "benefits": {
+        "benefit1": {
+          "text": "No Tricks"
+        },
+        "benefit2": {
+          "text": "No Hidden Terms"
+        },
+        "benefit3": {
+          "text": "No Equity Confusion"
+        },
+        "benefit4": {
+          "text": "Get Your Margin Bonus"
+        }
+      },
+      "buttonText": "Switch To GTC"
+    },
+    "brokerSection": {
+      "subheading": "A Broker You Can Actually Trust",
+      "paragraph": "We’re not a fly-by-night operation. GTC is licensed and regulated in multiple respected jurisdictions. Here’s how we give you confidence to trade.",
+      "listItems": {
+        "item1": {
+          "text": "Licensed by the UAE’s SCA, Mauritius' FSC, and South Africa's FSCA."
+        },
+        "item2": {
+          "text": "Headquartered in Dubai with nearly 1 million global traders."
+        },
+        "item3": {
+          "text": "World-class support with a real human touch."
+        },
+        "item4": {
+          "text": "Customer-first culture where service is strategy."
+        }
+      },
+      "mainHeading": "Switch to a broker that doesn’t just say it, we prove it every day.",
+      "buttonText": "Switch To GTC"
+    },
+    "testimonialSection": {
+      "heading": "What Our Arabic Traders Are Saying",
+      "description": "With thousands of happy traders from the UAE, Oman, Qatar, Kuwait, Iraq, Jordan & Lebanon, isn’t it time you switched to GTC?",
+      "testimonials": {
+        "one": {
+          "text": "“I switched to GTC because the withdrawal speed blew my old broker out of the water. Instant payout in USDT? Love it.”",
+          "name": "Mohammed A.",
+          "country": "UAE"
+        },
+        "two": {
+          "text": "“I scalp gold all day, and GTC is the only broker I’ve found that actually lets me do that without weird time limits.”",
+          "name": "Omar S.",
+          "country": "Qatar"
+        },
+        "three": {
+          "text": "“My previous broker slipped my orders like crazy during news. GTC’s execution is solid. I finally trust the platform.”",
+          "name": "Hussein B.",
+          "country": "Iraq"
+        },
+        "four": {
+          "text": "Customer support at GTC actually speaks to you like a human, not just a ticket number. That alone is worth switching.",
+          "name": "Abdullah K.",
+          "country": "Lebanon"
+        }
+      },
+      "buttonText": "Switch To GTC",
+      "buttonText2": "Trade Gold"
+    },
+    "tradeSwitchSection": {
+      "heading": "Switch Now. Trade Better Today.",
+      "description1": "It only takes a few minutes to open your GTC account and access everything we’ve talked about above, including your Margin Bonus.",
+      "description2": "Say goodbye to the frustrations of your current broker. Say hello to faster trades, bigger rewards, and real transparency.",
+      "buttonText": "Make The Switch"
+    },
+    "confirmationThankYou": {
+      "heading": "Thanks, {nickname}!",
+      "subheading": "You’re Almost There!",
+      "description1": "We’ve just sent you an email to {email}, which explains what happens next.",
+      "description2": "It’s also a good idea to check your spam or junk folder as sometimes emails like to hide there. If the email we’ve sent you has made its way into your spam or junk folder, simply move it back into your inbox.",
+      "farewell": "See you soon!"
+    }
+  },
+  "swapFreePage": {
+    "meta": {
+      "title": "Open a GTC Swap Free Account and earn more.",
+      "description": "Open a GTC account today and enjoy lifetime Swap Free trading. No overnight fees, no surprises, just pure trading freedom, always."
+    },
+    "banner": {
+      "heading": "Trade Swap Free for Life with GTC!",
+      "desc": "No Rollover Fees. No Interest Charges. Just Pure Trading Freedom, Forever.",
+      "para1": "For a limited time, you can get your GTC trading account with a Swap Free option for life! No forms, no special requests, just open a GTC trading account and it’s done. Whether you’re holding trades overnight or are planning long-term moves, you won’t pay a single cent in swaps. It’s our way of giving you full control to trade your strategy, your way, with no hidden fees & no strings attached.",
+      "column1": {
+        "title": "Swaps?",
+        "desc": "Not anymore"
+      },
+      "column2": {
+        "title": "Forever",
+        "desc": "Auto Enabled"
+      },
+      "column3": {
+        "title": "Unlock",
+        "desc": "Full Control"
+      },
+      "column4": {
+        "title": "Unlimited",
+        "desc": "Trade Freedom"
+      },
+      "btnText": "Trade Swap Free"
+    },
+    "tcApply": "T&Cs Apply",
+    "whyPay": {
+      "heading": "Why Pay for Swaps?",
+      "title": "Switch to GTC & Never Pay Swap Fees Again!",
+      "para1": "You're not just skipping overnight fees, you’re unlocking a smarter way to trade. Here’s why traders all over the world are switching to GTC’s Swap Free accounts for life:",
+      "card1": {
+        "title": "Hold Trades Longer",
+        "desc": "No pressure to close positions, stay in as long as you like."
+      },
+      "card2": {
+        "title": "Trade Global Markets",
+        "desc": "From gold to forex, it all stays Swap Free."
+      },
+      "card3": {
+        "title": "Keep More Profit",
+        "desc": "Less fees = more in your pocket."
+      },
+      "card4": {
+        "title": "Stress-Free Strategy",
+        "desc": "No fees creeping in overnight. Sleep easy."
+      },
+      "card5": {
+        "title": "Instant Activation",
+        "desc": "No extra steps. No forms. Just open and go."
+      },
+      "card6": {
+        "title": "Built for Everyone",
+        "desc": "New to trading or a pro, it works for you."
+      },
+      "btnText": "Switch to GTC"
+    },
+    "swapFree": {
+      "heading": "Swap Free for Life?",
+      "desc": "Only with a GTC Trading Account. Let’s Make it Happen for you.",
+      "para1": "This might be the simplest upgrade you'll ever make. No forms, no waiting, no hidden catches. Just follow these quick steps to switch to GTC and trade swap free for life.",
+      "card1": {
+        "title": "Open Your Account",
+        "desc": "Just pop in your name and email. It takes less than a minute, literally."
+      },
+      "card2": {
+        "title": "Instant Activation",
+        "desc": "The moment your account is set, your Swap Free benefit is live. No request needed."
+      },
+      "card3": {
+        "title": "Start Trading Anything",
+        "desc": "Pick your market, FX, gold, indices etc, you’re good to go, Swap Free."
+      },
+      "card4": {
+        "title": "Hold. Trade. Repeat.",
+        "desc": "Whether you're in for the long haul or short bursts, your strategy stays fee-free."
+      },
+      "btnText": "Trade Swap Free"
+    },
+    "readyToSwap": {
+      "heading": "Ready To Trade Swap Free?",
+      "desc": "Switch to GTC today & trade swap free for life! There’s nothing surer about that! Plus you get all the benefits of a GTC trading account, which means you receive super-competitive spreads, ultra-fast execution & customer care that actually cares about you!",
+      "btnText": "Switch to GTC"
+    }
+  },
+  "tradeGold": {
+    "meta": {
+      "title": "Trade Gold with the Lowest Spreads in the UAE, Only with GTC",
+      "description": "0.20 raw spreads when you trade gold with us. Hit that “TRADE GOLD” button to get started."
+    },
+    "banner": {
+      "heading": "Trade Gold with the Lowest Spreads in the {page}, Only with GTC",
+      "desc": "The lowest spreads guaranteed when you trade gold with us. Thousands of traders in {page} are now trading gold with GTC because we also offer same‑day withdrawals, plus your funds are protected as GTC is a multi-regulated broker. Hit that “TRADE GOLD” button to get started.",
+      "para1": "For a limited time, you can get your GTC trading account with a Swap Free option for life! No forms, no special requests, just open a GTC trading account and it’s done. Whether you’re holding trades overnight or are planning long-term moves, you won’t pay a single cent in swaps. It’s our way of giving you full control to trade your strategy, your way, with no hidden fees & no strings attached.",
+      "column1": {
+        "desc": "Trade gold with the lowest spreads with GTC."
+      },
+      "column2": {
+        "desc": "Same-Day Withdrawals They’re your funds, not ours."
+      },
+      "column3": {
+        "desc": "Scalping After 60 Seconds. Fast trades. No blocks."
+      },
+      "column4": {
+        "desc": "Ultra-Fast Execution on your gold  trades at GTC"
+      },
+      "column5": {
+        "desc": "Real Bonus & Cashback that boosts your trades."
+      },
+      "column6": {
+        "desc": "Multi-Regulated Brokerage SCA & FSC"
+      },
+      "btnText": "Trade Gold"
+    },
+    "trusted": {
+      "heading": "Trade Gold with a Broker that’s Trusted in the {page}",
+      "headingUAE": "Trade Gold with a Broker that’s Trusted in the {page}",
+      "para1": "Gold is serious business. So is trust.",
+      "para2": "GTC is licensed and regulated by multiple global authorities such as the UAE's SCA, Mauritius’ FSC, South Africa’s FSCA, and Vanuatu’s VFSC. This gives traders complete peace of mind in {page}, and the confidence they need when the Gold markets heat up.",
+      "para2ZA": "GTC is licensed and regulated by multiple global authorities such as the UAE’s SCA, Mauritius’ FSC, and South Africa’s FSCA and Vanuatu’s VFSC. This gives traders complete peace of mind in {page}, and the confidence they need when the Gold markets heat up.",
+      "para3": "Thousands of traders across {page} trust GTC for raw pricing, fast withdrawals, and regulated peace of mind when it comes to trading gold.",
+      "btnText": "Trade Gold"
+    },
+    "tradeGoldSection": {
+      "heading": "Trade Gold with GTC & Get a Bonus That Boosts Your Margin, Not Your Hopes",
+      "desc": "Forget losable or tricky bonuses when trading gold. When you switch to GTC, deposit $500 or more, and trade gold, we’ll match your deposit with a Margin Bonus. You get extra trading margin with real cashback rewards.",
+      "title1": "Trade gold & hit the cashback target. Withdraw your reward.",
+      "card1": {
+        "title": "Great <br/> Bonus"
+      },
+      "card2": {
+        "title": "No Hidden <br/> Terms"
+      },
+      "card3": {
+        "title": "No Equity <br/> Confusion"
+      },
+      "card4": {
+        "title": "Get Cashback <br/> Too"
+      },
+      "btnText": "Trade Gold"
+    },
+    "tradeBroker": {
+      "heading": "Trade Gold with a Broker You Can Actually Trust",
+      "desc": "When it comes to trading gold, you’re going to want a broker that understands you, is licensed and regulated in multiple respected jurisdictions, and has a track record for excellence. Here’s how we give you confidence to trade.",
+      "item1": "Licensed by the UAE’s SCA, Mauritius’ FSC, and South Africa’s FSCA.",
+      "item2": "Headquartered in Dubai with nearly 1 million serviced traders.",
+      "item3": "World-class support with a real human touch.",
+      "item4": "Customer-first culture where service is strategy.",
+      "subTitle": "Switch to a broker that allows you to trade gold your way!",
+      "btnText": "Trade Gold"
+    },
+    "testimonial": {
+      "heading": "What Our Arabic Traders Are Saying",
+      "desc": "With thousands of happy traders from the UAE, isn’t it time you switched to GTC?",
+      "card1": {
+        "title": "I recently switched to GTC because the spreads on gold were killing my profi ts at the previous broker I was trading with. GTC’s 2-pip spread made such a noticeable difference, plus any withdrawals I make hit my account the same day. GTC is a very professional brokerage and I’m happy to trade gold with them.”",
+        "name": "Omar A.",
+        "country": "Cairo, Egypt"   
+      },
+      "card2": {
+        "title": "“I scalp gold all day, and GTC is the only broker I’ve found that actually lets me do that without weird time limits.”",
+        "name": "Yousef H.",
+        "country": "Jeddah, Saudi Arabia"
+      },
+      "card3": {
+        "title": "“Gold is my main instrument. I’ve been trading it for years. I came across GTC at the latest iFX Expo in Limassol, Cyprus, and opened an account as their spreads were the most competitive I’ve ever seen. I’ve been trading for years and tested a bunch of brokers. GTC feels different, plus their execution is fast, there’s very little to no slippage during spikes, and support actually knows what they’re talking about.”",
+        "name": "Nour S.",
+        "country": "Beirut, Lebanon"
+      },
+      "card4": {
+        "title": "“Honestly, I didn’t expect much when I joined, but gold trading here just works. There are no issues with their MT5 platform, spreads are tight, and I’ve never had an issue getting paid out.”",
+        "name": "Ahmad K.",
+        "country": "Manama, Bahrain"
+      },
+      "btnText": "Trade Gold"
+    },
+    "tradeToday": {
+      "heading": "Trade Gold the Better Way Today.",
+      "desc1": "It only takes a few minutes to open your GTC account and access everything we’ve talked about above.",
+      "desc2": "Say goodbye to the frustrations you’re facing when trading gold with your current broker. Say hello to faster trades, bigger rewards, and real transparency.",
+      "btnText": "Trade Gold"
+    },
+    "confirmationThankYou": {
+      "heading": "Thanks!",
+      "subheading": "You’re Almost There!",
+      "description1": "We’ve sent you an email to {email}. Go ahead and click on that link. You’ll then be called by our friendly Customer Care team who will help you set up your GTC trading account and trade gold with the lowest spreads.",
+      "description2": "Go ahead and check your spam or junk folder as sometimes emails like to hide there! If the email we’ve sent you has made its way into your spam or junk folder, simply move it back into your inbox.",
+      "farewell": "See you soon!",
+      "help": {
+        "heading": "Having trouble?",
+        "phone": "Contact us on +971 800 667788 or ",
+        "email": "email support@gtcfx.com",
+        "seeYou": "See you soon",
+        "team": "The GTC Team"
+      }
+    }
+  },
+  "investing": {
+    "meta": {
+      "title": "Trade Gold With GTC",
+      "description": "Trade gold with super-tight spreads, high leverage, and with a broker that offers you peace of mind."
+    },
+    "banner": {
+      "title": "Trade Gold <br/> With GTC",
+      "desc": "The Multi-Regulated Brokerage that's Preferred by Gold Traders.",
+      "alreadyAccount": "Already have an account?",
+      "login": "Login",
+      "btnText": "Trade Gold"
+    },
+    "sectionTwo": {
+      "column1": {
+        "title": "Key Benefits",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "list": {
+          "item1": "Ultra-Low Spreads on Gold, Forex & CFDs.",
+          "item2": "Up To 1:2000 Leverage.",
+          "item3": "2,000+ Trading Instruments",
+          "item4": "No Hidden Fees",
+          "item5": "Same-Day Withdrawals"
+        }
+      },
+      "column2": {
+        "title": "Trust & Credibility",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "list": {
+          "item1": "Over 1 Million Traders Globally Trust GTC",
+          "item2": "Multi-Regulated, SCA, FSCA, FSC, VFSC",
+          "item3": "Multi-Award Winning Broker"
+        }
+      },
+      "column3": {
+        "title": "Customer Support",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+        "list": {
+          "item1": "24/5 Multilingual Support",
+          "item2": "Rated ★★★★★ by our clients for fast and reliable service"
+        }
+      }
+    },
+    "lastSection": {
+      "title": "Are You Ready To Trade Gold?",
+      "desc": "Trade gold with super-tight spreads, high leverage, and with a broker that offers you peace of mind.",
+      "btnText": "Trade Gold"
+    }
+  },
+  "investingMarket": {
+    "meta": {
+      "title": "Trade the Markets | Open Your GTC Trading Account",
+      "description": "Open Your GTC Trading Account & Trade Today."
+    },
+    "banner": {
+      "title": "Trade the <br/> Markets",
+      "desc": "Open Your GTC Trading <br />Account & Trade Today.",
+      "para": "Multi-regulated, secure, and ultra-fast withdrawals when you trade with GTC. We remove all the unnecessary barriers.",
+      "alreadyAccount": "Already have an account?",
+      "login": "Login",
+      "btnText": "Start Now"
+    },
+    "sectionTwo": {
+      "column1": {
+        "title": "Why Trade <br/>with GTC?",
+        "list": {
+          "itemOneTitle": "Fast & Easy Registration",
+          "para1": "Start trading the markets quickly.",
+          "itemTwoTitle": "Ultra-Fast Withdrawals",
+          "para2": "Segregated funds & ultra-fast withdrawals.",
+          "itemThreeTitle": "Flexible Bonuses & Cashback",
+          "para3": "Boost your trading experience & your portfolio."
+        }
+      },
+      "column2": {
+        "title": "Ultimate Trading<br/> Conditions",
+        "list": {
+          "item1": "Ultra-Competitive",
+          "item1para": "Our spreads start from 0.0 pips!",
+          "card2": {
+            "item1": "Access to 2000+ MarketsForex",
+            "item2": "Gold, Indices, Energies",
+            "item3": "Stocks & Commodities."
+          },
+          "card3Title": "Multi-Regulated",
+          "card3para": "GTC is regulated in UAE, FSCA, FSC, & VFSC."
+        }
+      }
+    },
+    "lastSection": {
+      "title": "Are You Ready To Trade Gold?",
+      "desc": "Trade gold with super-tight spreads, high leverage, and with a broker that offers you peace of mind.",
+      "btnText": "Trade Gold"
+    }
+  },
+  "investingGtc": {
+    "meta": {
+      "title": "Trade With GTC | Trade the Fed’s Next Move ",
+      "description": "Join thousands of traders who are preparing for the Federal Reserve’s (Fed) next big move. React instantly to market volatility with GTC’s multi-regulated platform"
+    },
+    "banner": {
+      "title": "Trade <br/>  With GTC",
+      "desc": "Trade the Fed’s Next Move.",
+      "para": "Join thousands of traders who are preparing for the Federal Reserve’s (Fed) next big move. React instantly to market volatility with GTC’s multi-regulated platform.",
+      "alreadyAccount": "Already have an account?",
+      "login": "Login",
+      "btnText": "Open Free Account"
+    },
+    "sectionTwo": {
+      "column1": {
+        "title": "Why Fed Meetings Matter",
+        "desc": "Here's why so many gold traders are turning to GTC.",
+        "list": {
+          "item1": "Fed Announcements",
+          "item2": "Fed announcements can create strong market volatility within minutes.",
+          "item3": "Rate Cuts",
+          "item4": "Rate cuts may boost equities and support gold prices.",
+          "item5": "Market Updates",
+          "item6": "Markets expect a potential rate cut at the upcoming FOMC."
+        }
+      },
+      "column2": {
+        "title": "What History Shows",
+        "desc": "Here's why so many gold traders are turning to GTC.",
+        "list": {
+          "item1": "Even during rate cuts, markets don’t always react positively.",
+          "item2": "In December 2018 the S&P 500 saw its largest Fed-day swing since 2008 due to hawkish guidance."
+        }
+      },
+      "column3": {
+        "title": "Why Trade with GTC?",
+        "desc": "Here's why so many gold traders are turning to GTC.",
+        "list": {
+          "item1": "Ultra-Low Spreads on Gold, Forex & all CFDs.",
+          "item2": "Go long or short: trade both directions.",
+          "item3": "Same-Day Withdrawals.",
+          "item4": "Real-Time Alerts after FOMC; get market commentary.",
+          "item5": "Multi-Regulated: DFSA, FSCA, FSC & VFSC."
+        }
+      },
+      "column4": {
+        "title": "Start Trading in 3 Steps",
+        "desc": "Here's why so many gold traders are turning to GTC.",
+        "list": {
+          "item1": "Register your OTC account in minutes.",
+          "item2": "Verify your identity (KYC).",
+          "item3": "Deposit & trade to be ready for the Fed’s decision."
+        }
+      }
+    },
+    "lastSection": {
+      "title": "Are You Ready To Trade Gold?",
+      "desc": "Trade gold with super-tight spreads, high leverage, and with a broker that offers you peace of mind.",
+      "btnText": "Trade Gold"
+    }
+  }
+}

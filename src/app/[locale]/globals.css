@@ -1,0 +1,209 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Poppins", sans-serif;
+}
+@theme {
+  --color-primary: #02002f; /* Dark blue */
+  --color-secondary: #b68756; /* Gold yellow */
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  @apply max-w-[1380px] mx-auto px-3;
+}
+
+.flip-container {
+  perspective: 1000px;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+  touch-action: manipulation;
+}
+.flip-inner {
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+/* Flip on hover (vertical flip) */
+.flip-container:hover .flip-inner {
+  transform: rotateX(180deg);
+}
+
+/* Front and back faces */
+.flip-front,
+.flip-back {
+  backface-visibility: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.875rem; /* text-sm */
+  font-weight: 500;
+}
+
+/* Back face flipped vertically */
+.flip-back {
+  transform: rotateX(180deg);
+  background-color: #02002f; /* Tailwind's primary */
+  color: white;
+}
+
+.flip-front {
+  background-color: #f5f5f5;
+  color: #1d2746;
+}
+
+.table-bg {
+  background: url("/table-bg.svg") no-repeat center center;
+}
+
+.india-bg {
+  background: url("/india-bg.svg") no-repeat center center;
+  background-position: bottom;
+  background-size: contain;
+}
+
+.india-bg-switch {
+  background: url("/india-bg.svg") no-repeat center center;
+  background-position: bottom;
+  background-size: 100% 91%;
+}
+.banner-bg {
+  background: url("/bg-banner.png") no-repeat center center;
+  background-position: bottom;
+  background-size: contain;
+}
+
+.ib-background-img::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("/mandala.png"); /* ✅ must be in /public */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; /* or 'cover' */
+  opacity: 0.1;
+  z-index: 0;
+  pointer-events: none; /* optional */
+}
+
+.react-phone-container .PhoneInput {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.react-phone-container .PhoneInputCountry {
+  background-color: transparent;
+  border: 1px solid #6b7280; /* Tailwind gray-500 */
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  color: white;
+  height: 100%;
+}
+
+.react-phone-container .PhoneInputInput {
+  flex: 1;
+  background-color: transparent;
+  border: 1px solid #6b7280;
+  padding: 0.5rem 0.45rem;
+  border-radius: 0.375rem;
+  color: white;
+}
+.PhoneInputCountry {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+.PhoneInputCountry img {
+  width: 20px;
+}
+.PhoneInputCountry option {
+  color: #000;
+}
+
+/* Customize PhoneInput inner components */
+.PhoneInput {
+  display: flex;
+  align-items: center;
+  background-color: #1a1a47;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0.75rem;
+  color: white;
+}
+
+.PhoneInput input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 1rem;
+}
+
+.PhoneInputCountry {
+  margin-right: 0.75rem;
+  border-right: 1px solid rgba(255, 255, 255, 0.2);
+  padding-right: 0.75rem;
+}
+
+.PhoneInputCountrySelectArrow {
+  color: white;
+}
+.phone-setting .PhoneInputCountry {
+  gap: 12px !important;
+}
+.react-select__value-container {
+  padding: 10px 8px !important;
+}
+.react-select__control.css-1losk6k-control {
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+@media (min-width: 1920px) {
+  .hero-bg img {
+    object-fit: contain;
+  }
+}
+
+.flip-card {
+  perspective: 1200px;
+  height: 100%;
+  width: 100%;
+}
+.flip-inner {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 500ms ease-out;
+  will-change: transform;
+}
+.flip-face {
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+.flip-back {
+  transform: rotateY(180deg);
+  padding: 0;
+}
+
+.investing-form input {
+  color: #666684!important;
+}

@@ -1,0 +1,751 @@
+{
+  "menuItem": {
+    "whyJoin": "Por que participar?",
+    "howItWorks": "Como funciona",
+    "competitionDetails": "Detalhes da competição",
+    "termsConditions": "Termos e Condições",
+    "register": "Registre-se"
+  },
+  "partner": {
+    "meta": {
+      "title": "Torne-se um Parceiro GTC na Arábia Saudita Hoje",
+      "description": "Junte-se à GTC como Parceiro na Arábia Saudita. Ganhe até 80% em Reembolsos, ofereça bônus incríveis aos traders e cresça com um corretor global regulamentado."
+    },
+    "banner": {
+      "no": "80%",
+      "title": "em Reembolsos",
+      "para1": "Os Melhores Parceiros Forex da Arábia Saudita Agora Ganham Até",
+      "para2": "com a GTC",
+      "para3": "Junte-se a um corretor multi-regulamentado confiado mundialmente. Seus traders recebem um bônus negociável apenas por mudar para nós, além de você ganhar até 80% em Reembolsos com pagamentos rápidos, suporte multilíngue e sem custos de configuração.",
+      "btnText": "Ganhe 80% em Reembolsos"
+    },
+    "layer": {
+      "column1": "Até 80% em Reembolsos Pagos Sob Demanda",
+      "column2": "Torne-se um Parceiro Forex em Poucos Cliques",
+      "column3": "Alavancagem Dinâmica Até 1:2000",
+      "column4": "Seus Traders Recebem um Bônus Negociável",
+      "column5": "Suporte Completo para Marketing e Eventos Fornecido",
+      "column6": "Corretora Multi-Regulamentada: SCA, FSC"
+    },
+    "comparisonTable": {
+      "title": "Aqui está o que seus traders receberão ao serem indicados para a GTC",
+      "cta": "Indique Seus Traders",
+      "colHeader1": "Recurso",
+      "colHeader2": "Seu Corretor",
+      "col1": {
+        "point1": "Spread Médio EURUSD",
+        "point2": "Alavancagem",
+        "point3": "Tempo de Saque",
+        "point4": "Regra de Scalping",
+        "point5": "Deslizamento Durante Notícias",
+        "point6": "Qualidade do Suporte",
+        "point7": "Recompensas de Fidelidade"
+      },
+      "col2": {
+        "point1": "3 pips",
+        "point2": "1:500",
+        "point3": "24 horas",
+        "point4": "3 minutos",
+        "point5": "Aumentado",
+        "point6": "Respostas roteirizadas",
+        "point7": "❌"
+      },
+      "col3": {
+        "point1": "0 pips",
+        "point2": "1:2000",
+        "point3": "Instantâneo – máx. 10 horas",
+        "point4": "1 minuto",
+        "point5": "Inalterado",
+        "point6": "Atendimento humano real",
+        "point7": "GTC VIP + Bônus de Margem"
+      }
+    },
+    "payMore": {
+      "subtitle": "Um Programa de Parceria Forex Que",
+      "title": "Paga Mais do Que Apenas Comissão",
+      "intro": "Bem-vindo a uma parceria construída para desempenho. Na GTC, não oferecemos apenas até 80% em Reembolsos; damos a você as ferramentas para crescer seu negócio.",
+      "outro": "De bônus reais para traders a suporte de marketing e pagamentos instantâneos, este é o programa de parceria Forex ao qual os parceiros sérios estão mudando.",
+      "cta": "Seja Parceiro da GTC",
+      "features": {
+        "feature1": {
+          "title": "Ganhe Até 80% em Reembolsos",
+          "description": "Sem limites, sem restrições. Apenas pagamentos reais nos quais você pode confiar."
+        },
+        "feature2": {
+          "title": "Bônus Negociável para Seus Traders",
+          "description": "Depósitos mais altos, maior volume, mais comissão para você."
+        },
+        "feature3": {
+          "title": "Eventos e Ferramentas de Marketing",
+          "description": "Nós ajudaremos você a atrair e converter mais traders."
+        },
+        "feature4": {
+          "title": "Pagamentos de Comissão Instantâneos",
+          "description": "Retire seus ganhos de parceiro no momento em que eles chegarem."
+        }
+      }
+    },
+    "broker": {
+      "heading": "A corretora em que você pode confiar de verdade",
+      "paragraph": "Na GTC, transparência não é promessa, é prática. Somos licenciados e regulamentados em várias jurisdições respeitadas, oferecendo a você total confiança para negociar.",
+      "points": {
+        "p1": "Licenciada pela SCA dos Emirados Árabes Unidos, pela FSC das Ilhas Maurício e pela FSCA da África do Sul.",
+        "p2": "Sediada em Dubai, com quase 1 milhão de traders globais.",
+        "p3": "Atendimento de nível mundial, com o cuidado humano que você merece.",
+        "p4": "Cultura que prioriza o cliente, onde o serviço é estratégia."
+      },
+      "bottomTitle": "Confiança que se comprova.",
+      "cta": "Mude para a GTC e sinta a diferença!"
+    },
+    "testimonials": {
+      "title": "O Que os Parceiros e Traders Forex da Arábia Saudita Estão Dizendo",
+      "description": "Seja você um parceiro experiente ou apenas começando, esses parceiros fizeram a mudança e eles ou seus traders não olharam para trás.",
+      "cta": "Junte-se a Nós",
+      "list": {
+        "t1": {
+          "text": "“Como parceiro Forex, receber até 80% em Reembolsos e pagamentos instantâneos foi um divisor de águas. Mudei toda a minha base de clientes para a GTC, onde eles são bem atendidos.”",
+          "name": "Judi Izdihar Shamoon, Riad",
+          "stars": 5
+        },
+        "t2": {
+          "text": "“Eu realizo aulas mensais de trading na Arábia Saudita. A GTC me forneceu banners, uma LP e bônus reais para meus traders. O suporte é incrível!”",
+          "name": "Suoud Butrus Gaber, Jeddah",
+          "stars": 4
+        },
+        "t3": {
+          "text": "“Meu educador de trading recomendou a GTC. No início, eu estava cético, mas agora entendo por que ele recomendou. Os spreads, bônus, tudo funciona muito bem.”",
+          "name": "Kutaiba Abdul-Matin Awad, Dammam",
+          "stars": 5
+        },
+        "t4": {
+          "text": "“A GTC não apenas fala, ela entrega! Recebo meus pagamentos no prazo, sempre, e meus traders estão ficando mais tempo do que nunca. Eles também negociam ouro, e a GTC é excelente com eles.”",
+          "name": "Yasser Nu'aym Bazzi, Riad",
+          "stars": 4
+        }
+      }
+    },
+    "growIB": {
+      "subtitle": "Comece a Ganhar Mais.",
+      "title": "Cresça Seu Negócio de Parceiro Forex com a GTC",
+      "description1": "Você viu o que a GTC oferece. Agora é a sua vez. Junte-se ao programa de parceria que está ajudando os parceiros Forex da Arábia Saudita a crescer mais rápido, ganhar mais e construir confiança duradoura com seus traders.",
+      "description2": "Junte-se a nós hoje, e seus traders agradecerão amanhã.",
+      "cta": "Faça a Mudança"
+    },
+    "form": {
+      "heading": "Registre-se Agora",
+      "closeAlt": "Fechar o modal",
+      "firstName": "Nome",
+      "lastName": "Sobrenome",
+      "email": "Email",
+      "phone": "Número de Celular",
+      "country": "País de Residência",
+      "otp": "OTP foi enviado para o email fornecido",
+      "getCode": "Obter Código",
+      "sending": "Enviando...",
+      "sendOtp": "Enviar OTP",
+      "verifyCode": "Verificar Código",
+      "termsLabel": "Por favor, aceite os termos e condições",
+      "termsText": "Confirmo que tenho mais de 18 anos, li e concordo com o ",
+      "conset": "Eu autorizo a GTC a me contatar em horários razoáveis e que meu número não está no Registro de Não Ligar (DNCR).",
+      "clientAgreement": "Acordo do Cliente",
+      "privacyPolicy": "Política de Privacidade",
+      "submit": "Enviar Agora",
+      "submitting": "Enviando...",
+      "otpSuccess": "OTP Verificado com Sucesso!",
+      "otpFail": "Falha na Verificação do OTP, tente novamente!",
+      "thankYou1": "Obrigado por se registrar na GTC!",
+      "otpSent": "OTP enviado com sucesso!",
+      "errors": {
+        "fullNameFormat": "O nome completo só pode conter letras.",
+        "firstNameRequired": "O nome é obrigatório",
+        "lastNameFormat": "O sobrenome só pode conter letras.",
+        "lastNameRequired": "O sobrenome é obrigatório",
+        "emailInvalid": "Endereço de email inválido",
+        "emailRequired": "O email é obrigatório",
+        "phoneRequired": "O número de telefone é obrigatório",
+        "countryRequired": "O país é obrigatório",
+        "otpLength": "O OTP deve ter 6 dígitos",
+        "otpRequired": "O OTP é obrigatório",
+        "termsRequired": "Por favor, aceite os termos e condições"
+      },
+      "thankYou": "Obrigado",
+      "almostThere": "Você Está Quase Lá!",
+      "emailSent": "Acabamos de enviar um email para {email}, que explica o que acontece a seguir.",
+      "checkSpam": "Também é uma boa ideia verificar sua pasta de spam ou lixo eletrônico, pois às vezes os emails gostam de se esconder lá. Se o email que enviamos chegou à sua pasta de spam ou lixo, simplesmente mova-o de volta para sua caixa de entrada.",
+      "seeYou": "Até breve!",
+      "helpSection": {
+        "title": "Está com problemas?",
+        "phoneLabel": "Entre em contato conosco pelo",
+        "phone": "+971 800 667788",
+        "emailLabel": "ou envie um email para a Equipe de Parcerias da GTC em",
+        "email": "partners@gtcfx.com"
+      }
+    },
+    "thankYoumeta": {
+      "title": "Confirmação de Ingresso no Programa de Parcerias da GTC",
+      "description": "Bem-vindo a uma parceria construída para desempenho. Na GTC, não oferecemos apenas até 80% em Reembolsos; damos a você as ferramentas para crescer seu negócio."
+    }
+  },
+  "demo": {
+    "meta": {
+      "title": "Participe da competição Demo Trading da GTC e ganhe prêmios que somam US$ 5.000.  Inscreva-se agora!",
+      "description": "Inscreva-se para participar da competição Demo Trading da GTC e ganhe sua parte do prêmio de $ 5.000! A competição começa dia 6 de agosto de 2025, NÃO PERCA!"
+    },
+    "banner": {
+      "no": "$5,000",
+      "title": "A Competição Demo Trading da GTC está quase chegando!",
+      "para1": "GTC",
+      "para2": "Você acha que tem o que é preciso para liderar o ranking da nossa primeira competição Demo Trading? Então prove! Participe da competição e ganhe prêmios que somam US$ 5.000. Lembre-se: esta é uma competição de demonstração de trading, e você receberá uma Conta Demo US$ 10.000 para usar. Sem risco. Só prêmio. E o reconhecimento que você merece. Clique no botão abaixo para garantir sua vaga e mostrar suas habilidades.",
+      "btnText": "Inscreva-se para participar"
+    },
+    "register": {
+      "title": "Participantes Registrados",
+      "description": "Abaixo está a lista de traders que já se registraram para a Competição de Trading Demo GTC. Confira a comunidade de competidores prontos para enfrentar o desafio!",
+      "table": {
+        "account": "Número da Conta",
+        "firstName": "Nome",
+        "lastName": "Sobrenome",
+        "email": "Endereço de Email",
+        "balance": "Saldo"
+      }
+    },
+    "counter": {
+      "title": "A primeira competição de negociação de demonstração da GTC começa em:",
+      "days": "Dias",
+      "hours": "Horas",
+      "min": "Minutos",
+      "sec": "Segundos"
+    },
+    "payMore": {
+      "title": "Por que participar da Competição Demo Trading da GTC?",
+      "intro": "Você não está só entrando numa competição. Está entrando no radar dos grandes! Confira por que traders do mundo todo já garantiram sua vaga no primeiro torneio demo da GTC.",
+      "cta": "Participe",
+      "features": {
+        "feature1": {
+          "title": "US$ 3.000 para o 1º lugar — e zero risco!",
+          "description": "Você vai operar com fundos virtuais, mas o melhor trader ganha uma conta real com US$ 3.000. Sem necessidade de depósito!"
+        },
+        "feature2": {
+          "title": "Condições reais de mercado",
+          "description": "Teste suas estratégias como se estivesse operando de verdade, tudo isso sem arriscar seu dinheiro."
+        },
+        "feature3": {
+          "title": "Ranking em tempo real!",
+          "description": "Compare sua performance com traders do mundo inteiro. O ranking é atualizado diariamente."
+        },
+        "feature4": {
+          "title": "Use sua própria estratégia",
+          "description": "Aproveite alavancagem de 1:500 e opere Forex, Metais e Commodities na conta demo."
+        },
+        "feature5": {
+          "title": "Reconhecimento + Recompensas",
+          "description": "Além dos prêmios, você pode receber um troféu, certificado e reconhecimento exclusivo da GTC."
+        },
+        "feature6": {
+          "title": "Ideal para todos os níveis",
+          "description": "Seja você iniciante ou experiente, essa é a oportunidade perfeita para competir, aprender e ganhar."
+        }
+      }
+    },
+    "work": {
+      "heading": "Como funciona a competição Demo Trading da GTC:",
+      "paragraph": "Cadastre-se em questão de segundos. Opere como um profissional por 14 dias. Conquiste grandes prêmios!",
+      "list": {
+        "t1": {
+          "step": "Passo 1",
+          "name": "Cadastre-se com seu nome e e-mail",
+          "stars": "Sem burocracia, sem necessidade de depósito."
+        },
+        "t2": {
+          "step": "Passo 2",
+          "name": "Receba sua conta demo com US$ 10.000",
+          "stars": "Vamos te enviar os dados de acesso por e-mail para a plataforma MT5 com o valor de US$ 10 mil em fundos virtuais."
+        },
+        "t3": {
+          "step": "Passo 3",
+          "name": "Negocie Forex, Metais e Commodities",
+          "stars": "Você terá 14 dias para usar sua estratégia e movimentar sua conta virtual."
+        },
+        "t4": {
+          "step": "Passo 4",
+          "name": "Suba no ranking e ganhe!",
+          "stars": "Supere os outros traders, suba no ranking e ganhe sua parte dos US$ 5.000 em prêmios de contas reais."
+        },
+        "cta": "Cadastre-se Agora"
+      }
+    },
+    "detail": {
+      "title": "Detalhes da Competição Demo Trading",
+      "description": "Aqui estão todas as informações que você precisa saber sobre a competição de trading demo.",
+      "competitionDetails": [
+        {
+          "title": "Período de Inscrição",
+          "content": [
+            "Quarta-feira, 11 de Agosto de 2025 – Domingo, 24 de Agosto de 2025 (23:59 GMT).",
+            "Inscreva-se cedo para garantir sua conta demo e familiarize-se com a plataforma MT5."
+          ]
+        },
+        {
+          "title": "Período da Competição",
+          "content": [
+            "Segunda-feira, 25 de Agosto – Quinta-feira, 11 de Setembro de 2025 (23:59 GMT).",
+            "Você terá 14 dias completos para negociar e subir no ranking."
+          ]
+        },
+        {
+          "title": "Como Participar",
+          "content": [
+            "Clique aqui para acessar o formulário de inscrição. Ao preenchê-lo, veja o que acontecerá:"
+          ],
+          "list": [
+            "Você receberá sua Conta Demo GTC MT5 de US$ 10.000 com credenciais de login por e-mail.",
+            "Você poderá negociar Forex, Metais e Commodities durante o período da competição.",
+            "Você poderá acompanhar seu progresso no ranking ao vivo na GTC VIP, nossa plataforma de recompensas de fidelidade. Confira!"
+          ],
+          "note": "⚠️ Observação: São necessárias no mínimo 10 negociações para se qualificar para os prêmios."
+        },
+        {
+          "title": "Prêmio Total de US$ 5.000",
+          "list": [
+            "🥇 1º Lugar ganha US$ 3.000 em uma Conta de Negociação Real da GTC.",
+            "🥈 2º Lugar ganha US$ 1.500 em uma Conta de Negociação Real da GTC.",
+            "🥉 3º Lugar ganha US$ 500 em uma Conta de Negociação Real da GTC.",
+            "4º ao 10º lugares ganham um Bônus de Crédito de US$ 200, que requer depósito."
+          ]
+        },
+        {
+          "content": [
+            "Todos os outros participantes verificados recebem um Bônus de Depósito de 15% em seu primeiro depósito na Conta de Negociação Real da GTC."
+          ]
+        },
+        {
+          "content": ["Todos recebem um certificado."]
+        },
+        {
+          "title": "Termos e Condições",
+          "content": [
+            "Confira todas as regras. Basta clicar aqui para visualizar os Termos e Condições completos."
+          ],
+          "linkText": "Termos e Condições",
+          "linkUrl": "https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/Demo+Trading+Competition+T%26Cs+_+Portuguese.pdf"
+        }
+      ]
+    },
+    "final-cta-section": {
+      "heading": "Você está pronto para o desafio?",
+      "description": "Mostre suas habilidades no trading e enfrente traders do mundo inteiro. Lembre-se: US$ 5.000 em prêmios serão distribuídos!",
+      "buttonText": "Garanta sua vaga agora"
+    },
+    "form": {
+      "heading": "Cadastre-se Agora",
+      "closeAlt": "Fechar a janela",
+      "firstName": "Nome",
+      "lastName": "Sobrenome",
+      "email": "E-mail",
+      "phone": "Número de Celular",
+      "country": "País de Residência",
+      "otp": "Código OTP foi enviado para o e-mail fornecido",
+      "getCode": "Obter Código",
+      "sending": "Enviando...",
+      "sendOtp": "Enviar OTP",
+      "verifyCode": "Verificar Código",
+      "termsLabel": "Aceite os termos e condições",
+      "termsText": "confirmo que tenho mais de 18 anos, li e concordo com os Termos e Condições.",
+      "conset": "Eu autorizo a GTC a entrar em contato comigo e confirmo que meu número não está registrado na Lista Nacional de Não Perturbe.",
+      "clientAgreement": "Termos e Condições da Competição",
+      "and1": "e os",
+      "privacyPolicy": "Política de Privacidade",
+      "submit": "Registre seu Lugar",
+      "submitting": "Enviando...",
+      "otpSuccess": "OTP verificado com sucesso!",
+      "otpFail": "Falha na verificação do OTP, tente novamente!",
+      "thankYou1": "Obrigado por se registrar na GTC!",
+      "otpSent": "OTP enviado com sucesso!",
+      "errors": {
+        "fullNameFormat": "Nome completo deve conter apenas letras",
+        "firstNameRequired": "O nome é obrigatório",
+        "lastNameFormat": "Sobrenome pode conter apenas letras",
+        "lastNameRequired": "O Sobrenome é obrigatório",
+        "emailInvalid": "Endereço de e-mail inválido",
+        "emailRequired": "E-mail obrigatório",
+        "phoneRequired": "Número de telefone obrigatório",
+        "countryRequired": "País obrigatório",
+        "otpLength": "OTP deve ter 6 dígitos",
+        "otpRequired": "OTP obrigatório",
+        "termsRequired": "Aceite os termos e condições"
+      },
+      "thankYou": "Obrigada!",
+      "almostThere": "Você está inscrito!",
+      "emailSent": "Parabéns por se inscrever na Competição Demo Trading da GTC.",
+      "para1": "Agora é o momento perfeito para preparar sua estratégia de trading! Lembre-se: você negociará apenas Forex, Metais e Commodities, com alavancagem de 1:500 em um período de 14 dias.",
+      "para2": "Faça cada negociação valer a pena e fique de olho na tabela de classificação. Muitos traders habilidosos estão participando deste torneio... mas também alguns sortudos.",
+      "para3": "Enviamos um e-mail separado com seus dados de acesso à conta demo, então dá uma olhada lá. Pode ser uma boa ideia verificar também sua pasta de spam ou lixo eletrônico, caso nosso e-mail tenha ido parar lá. Se isso acontecer, é só mover o e-mail de volta para sua caixa de entrada.",
+      "checkSpam": "Você receberá alguns lembretes por e-mail antes do início da competição.",
+      "seeYou": "BOA SORTE",
+      "helpSection": {
+        "title": "Está com algum problema?",
+        "phoneLabel": "Entre em contato conosco pelo telefone",
+        "phone": "+971 800 667788",
+        "emailLabel": "ou envie um e-mail para a equipe de parcerias da GTC: ",
+        "email": "support@gtcfx.com"
+      }
+    },
+    "thankYoumeta": {
+      "title": "Prepare-se para a Competição Demo Trading da GTC",
+      "description": "Bem-vindo a uma parceria feita para o desempenho. Na GTC, não oferecemos apenas até 80% de RevShare; fornecemos as ferramentas para fazer seu negócio crescer."
+    }
+  },
+  "footer": {
+    "riskWarningTitle": "Aviso de Risco:",
+    "riskWarningText": "Negociar produtos alavancados, como CFDs, envolve um alto nível de risco e pode não ser adequado para todos os investidores. Você pode perder mais do que o investimento inicial. Certifique-se de compreender totalmente os riscos e consulte um consultor independente, se necessário.",
+    "company1": "A GTC opera através de várias entidades reguladas: (mencione todas as entidades, por favor consulte o exemplo abaixo: GTC Global Ltd, regulada pela FSC Maurícia (Licença Nº GB22200292) - aplicável a todas as entidades).",
+    "company2": "A GTC não fornece serviços em jurisdições onde tais ofertas sejam contrárias às leis locais.",
+    "affiliateNoticeTitle": "Aviso de Afiliados:",
+    "affiliateNoticeText": "O conteúdo de afiliados/parceiros destina-se apenas a fins de referência e marketing e não constitui aconselhamento financeiro."
+  },
+  "cookie": {
+    "message": "Ao clicar em 'Está Bem Para Mim', você concorda com o armazenamento de cookies em seu dispositivo para melhorar sua experiência de usuário, navegação no site, analisar o uso do site e auxiliar em nossos esforços de marketing.",
+    "cta": "Está Bem Para Mim",
+    "linkText": "Leia nossa política de privacidade aqui."
+  },
+  "privacyPolicy": {
+    "meta": {
+      "title": "Política de Privacidade – GTC | Corretor Regulamentado de Forex e CFD",
+      "description": "Leia a Política de Privacidade da GTCFX para saber como coletamos, usamos e protegemos seus dados pessoais em nossas plataformas regulamentadas em Vanuatu, Maurício e UAE."
+    },
+    "header": {
+      "title": "Política de Privacidade",
+      "subtitle": "Protegendo suas informações em todas as plataformas e subdomínios da GTC"
+    },
+    "whoWeAre": {
+      "title": "Quem Somos",
+      "intro1": "Esta Política de Privacidade aplica-se à GTC, incluindo todos os seus subdomínios, como reg.gtcfx.com (e todos os outros subdomínios relacionados à GTC), e abrange como lidamos com suas informações pessoais.",
+      "intro2": "Quando dizemos 'GTC', 'GTCFX', 'GTC VIP', 'nós', 'nosso' ou 'nos', estamos nos referindo a:",
+      "entity1": {
+        "title": "GTC Global Trade Capital Co. Ltd",
+        "line1": "Autorizado pela Comissão de Serviços Financeiros de Vanuatu (VFSC).",
+        "line2": "Número da Licença: 40354.",
+        "line3": "Endereço: 1º andar, B&P House, Kumul Highway, Port Vila, Vanuatu."
+      },
+      "entity2": {
+        "title": "GTC Global Ltd",
+        "line1": "Autorizado pela Comissão de Serviços Financeiros de Maurício.",
+        "line2": "Número da Licença: GB22200292.",
+        "line3": "Endereço: The Cyberati Lounge, Térreo, The Catalyst, 40 Cybercity, 72201 Ebene, Maurício."
+      }
+    },
+    "ourCommitment": {
+      "title": "Nosso Compromisso",
+      "description": "Na GTC, sua privacidade não é apenas uma formalidade, é uma prioridade. Estamos comprometidos em proteger seus dados pessoais e ser totalmente transparentes sobre como eles são coletados, usados e protegidos em todos os nossos domínios.",
+      "subheading": "Esta política explica:",
+      "point": {
+        "one": "Quais dados pessoais coletamos",
+        "two": "Por que os coletamos",
+        "three": "Como os protegemos",
+        "four": "Seus direitos e como exercê-los"
+      }
+    },
+    "personalData": {
+      "title": "Os Dados Pessoais que Coletamos",
+      "intro": "Quando você interage com a GTC — seja abrindo uma conta, visitando nosso site ou se inscrevendo em qualquer uma de nossas páginas de destino, podemos coletar:",
+      "personal": {
+        "title": "Informações Pessoais",
+        "items": {
+          "one": "Nome completo, data e local de nascimento, gênero e nacionalidade.",
+          "two": "Dados de contato: email, número de telefone, endereço residencial.",
+          "three": "Detalhes de emprego e renda."
+        }
+      },
+      "financial": {
+        "title": "Dados Financeiros e Técnicos",
+        "items": {
+          "one": "Informações financeiras: detalhes bancários, origem dos fundos, histórico de negociação.",
+          "two": "Documentos de identidade: passaporte, carteira de motorista, ID nacional.",
+          "three": "Preferências e desempenho de negociação.",
+          "four": "Endereço IP, informações do dispositivo, cookies e uso da plataforma."
+        }
+      },
+      "note": "Também podemos gravar chamadas telefônicas e conversas por chat para conformidade e treinamento."
+    },
+    "howWeUse": {
+      "title": "Como Usamos Suas Informações",
+      "description": "Usamos seus dados apenas quando temos uma razão legal para isso.",
+      "points": {
+        "one": "Para fornecer serviços — Para configurar e gerenciar sua conta de negociação.",
+        "two": "Para cumprir obrigações legais — Incluindo prevenção de lavagem de dinheiro e requisitos regulatórios.",
+        "three": "Para proteger nossos interesses comerciais — Como melhorar nossas plataformas, analisar o comportamento do usuário e gerenciar riscos.",
+        "four": "Com seu consentimento — Para marketing por email e convites exclusivos para webinars.",
+        "five": "Para suporte ao cliente — Para ajudá-lo com solicitações ou resolver problemas.",
+        "six": "Para melhorar a experiência no site — Usando cookies, geolocalização e rastreamento de sessões.",
+        "seven": "Para manter registros — Por razões de auditoria, legais e fiscais."
+      },
+      "footer": "Nunca venderemos seus dados. Ponto final."
+    },
+    "whoWeShare": {
+      "title": "Com Quem Compartilhamos Seus Dados",
+      "description": "Seus dados podem ser compartilhados com:",
+      "items": {
+        "one": "Outras entidades da GTC (por exemplo, braços regulamentados em Vanuatu e Maurício).",
+        "two": "Fornecedores de pagamento e serviços de verificação de identidade.",
+        "three": "Parceiros de serviços jurídicos, de conformidade e financeiros.",
+        "four": "Autoridades regulatórias, quando exigido por lei.",
+        "five": "Ferramentas de marketing (mas nunca para marketing de terceiros)."
+      },
+      "footer": "Compartilhamos dados apenas com base na necessidade de saber e garantimos que qualquer terceiro atenda a padrões rigorosos de proteção de dados."
+    },
+    "cookiesTracking": {
+      "title": "Cookies e Rastreamento",
+      "description": "Usamos cookies e tecnologias de rastreamento em todos os domínios da GTCFX (por exemplo, https://gtcfx.com, https://gtcvip.com, etc.) para:",
+      "points": {
+        "one": "Lembrar suas preferências.",
+        "two": "Mostrar conteúdo relevante.",
+        "three": "Analisar o uso do site.",
+        "four": "Executar campanhas de remarketing."
+      },
+      "footer": "Você pode gerenciar suas configurações de cookies no seu navegador. Para mais informações, veja nossa",
+      "linkText": "Política de Cookies"
+    },
+    "internationalTransfers": {
+      "title": "Transferências Internacionais",
+      "description": "Como operamos globalmente, seus dados podem ser processados fora do EEE. Sempre que isso acontece, garantimos que seus dados sejam tão seguros quanto seriam sob as leis da UE, usando salvaguardas como contratos compatíveis com o GDPR."
+    },
+    "yourRights": {
+      "title": "Seus Direitos",
+      "description": "Aqui está o que você tem direito sob as leis de proteção de dados:",
+      "points": {
+        "one": "Acessar seus dados.",
+        "two": "Atualizar ou corrigi-los.",
+        "three": "Solicitar exclusão se não precisarmos mais deles.",
+        "four": "Limitar como os usamos.",
+        "five": "Retirar seu consentimento a qualquer momento.",
+        "six": "Solicitar a transferência de seus dados para outro provedor.",
+        "seven": "Objeção a marketing ou criação de perfis de dados."
+      },
+      "footer": "Para exercer qualquer um desses direitos, envie um email para:",
+      "email": "support@gtcfx.com"
+    },
+    "dataRetention": {
+      "title": "Retenção de Dados",
+      "intro": "Manteremos seus dados:",
+      "points": {
+        "one": {
+          "icon": "∞",
+          "text": "Enquanto sua conta estiver ativa."
+        },
+        "two": {
+          "icon": "5+",
+          "text": "Por pelo menos 5 anos após o fechamento de sua conta, para cumprir obrigações AML e regulatórias."
+        },
+        "three": {
+          "icon": "⚖️",
+          "text": "Por mais tempo, se necessário para fins legais, fiscais ou de disputas."
+        }
+      }
+    },
+    "dataSafety": {
+      "title": "Manter Seus Dados Seguros",
+      "description": "Armazenamos seus dados em servidores seguros, limitamos o acesso de funcionários e treinamos nossa equipe regularmente sobre proteção de dados. Também usamos criptografia, controles de acesso e monitoramento rigoroso para manter seus dados protegidos."
+    },
+    "policyUpdates": {
+      "title": "Atualizações desta Política",
+      "description": "Podemos atualizar esta Política de Privacidade de tempos em tempos. Qualquer atualização será publicada em gtcfx.com e nos subdomínios relevantes."
+    },
+    "contact": {
+      "title": "Entre em Contato",
+      "description": "Dúvidas? Precisa de ajuda com seus direitos de dados?",
+      "buttonText": "Envie-nos um email para support@gtcfx.com",
+      "email": "support@gtcfx.com"
+    }
+  },
+  "switchToGtc": {
+    "meta": {
+      "title": "Cambia a GTC para Retiros Más Rápidos y Spreads Más Bajos",
+      "description": "Cambia a GTC y experimenta spreads más ajustados, retiros instantáneos, reglas justas de scalping y mejores bonos. Opera de manera más inteligente con un bróker que te entiende."
+    },
+    "banner": {
+      "subTitle": "Tu Bróker Se Beneficia de Tu Sufrimiento en el Trading.",
+      "title1": "Mereces Más que Spreads de 3 Pips.",
+      "title2": "Opera Sin Trucos.",
+      "title3": "Cada Operación Debe Contar. No Solo la de Ellos.",
+      "title4": "Tu Bróker Te Está Frenando.",
+      "para1": "Haz el cambio a un bróker que realmente te pone en primer lugar. Retiros más rápidos, spreads más ajustados, condiciones más justas. Tú operas y nosotros nos encargamos del resto.",
+      "cta": "Cambia Ahora",
+      "list": {
+        "item1": "Spread de 2 Pips en Lugar de 3",
+        "item2": "Retiros Instantáneos y en el Mismo Día",
+        "item3": "Scalping Permitido Después de 60 Segundos",
+        "item4": "Sin Deslizamiento Durante Eventos de Noticias",
+        "item5": "Bono de Margen Real con Reembolso Real",
+        "item6": "Bróker Multi-Regulado: SCA, FCA y ASIC"
+      },
+      "tableHeading": "Comparación Rápida: Tu Bróker vs. GTC"
+    },
+    "bonusSection": {
+      "heading": "Mude e receba um bônus que aumenta sua margem, não só a sua expectativa.",
+      "description1": "Venha para a GTC: depósitos a partir de US$ 500 ganham margem dobrada e cashback de verdade.\nAqui você ganha margem de negociação extra com recompensas reais de cashback.",
+      "description2": "Negocie forex, ouro, metais ou petróleo e alcance sua meta de cashback.",
+      "description3": "Resgate sua recompensa.",
+      "benefits": {
+        "benefit1": {
+          "text": "Sem truques"
+        },
+        "benefit2": {
+          "text": "Sem termos ocultos"
+        },
+        "benefit3": {
+          "text": "Sem confusão sobre saldo"
+        },
+        "benefit4": {
+          "text": "Receba seu bônus de margem"
+        }
+      },
+      "buttonText": "Mude para a GTC e sinta a diferença!"
+    },
+    "brokerSection": {
+      "subheading": "A corretora em que você pode confiar de verdade",
+      "paragraph": "“Na GTC, transparência não é promessa, é prática. Somos licenciados e regulamentados em várias jurisdições respeitadas, oferecendo a você total confiança para negociar.",
+      "listItems": {
+        "item1": {
+          "text": "Licenciada pela SCA dos Emirados Árabes Unidos, pela FSC das Ilhas Maurício e pela FSCA da África do Sul."
+        },
+        "item2": {
+          "text": "Sediada em Dubai, com quase 1 milhão de traders globais."
+        },
+        "item3": {
+          "text": "Atendimento de nível mundial, com o cuidado humano que você merece."
+        },
+        "item4": {
+          "text": "Cultura que prioriza o cliente, onde o serviço é estratégia."
+        }
+      },
+      "mainHeading": "Confiança que se comprova.",
+      "buttonText": "Mude para a GTC e sinta a diferença!"
+    },
+    "testimonialSection": {
+      "heading": "Confira a opinião dos nossos traders",
+      "description": "Milhares de traders dos Emirados Árabes Unidos, Omã, Catar, Kuwait, Iraque, Jordânia e Líbano estão satisfeitos. Será que não está na hora de você mudar para a GTC?",
+      "testimonials": {
+        "one": {
+          "text": "“Mudei para a GTC porque a velocidade de saque deixou minha antiga corretora de queixo caído. Pagamento instantâneo em USDT? Eu adoro!”",
+          "name": "Mohammed A.",
+          "country": "Emirados Árabes Unidos"
+        },
+        "two": {
+          "text": "“Eu faço scalping em ouro o dia todo e a GTC é a única corretora que me permite operar sem limitações estranhas de tempo.”",
+          "name": "Omar S.",
+          "country": "Catar"
+        },
+        "three": {
+          "text": "“A corretora que eu operava antes desviava minhas ordens durante notícias importantes. A execução da GTC é impecável.”",
+          "name": "Hussein B.",
+          "country": "Iraque"
+        },
+        "four": {
+          "text": "“Uma empresa com suporte de verdade, de pessoa para pessoa. Aqui não me tratam apenas como um número de ticket, só isso já vale a mudança.”",
+          "name": "Abdullah K.",
+          "country": "Líbano"
+        }
+      },
+      "buttonText": "Mude para a GTC e sinta a diferença!"
+    },
+    "tradeSwitchSection": {
+      "heading": "Sua conta aberta, sua negociação começa.",
+      "description1": "Abra sua conta GTC em minutos e aproveite todas as vantagens, com Bônus de Margem incluso.",
+      "description2": "Mais agilidade. Mais clareza. Mais GTC.",
+      "buttonText": "Mude para a GTC hoje!"
+    },
+    "confirmationThankYou": {
+      "heading": "Obrigado,",
+      "subheading": "Você está quase lá!",
+      "description1": "Acabamos de enviar um e-mail com as próximas instruções.",
+      "description2": "Confira também sua pasta de spam ou lixo eletrônico, pois nosso e-mail pode ter ido para lá. Se encontrar, basta movê-lo para a caixa de entrada.\n",
+      "farewell": "Até breve!"
+    }
+  },
+ "swapFreePage": {
+    "meta": {
+      "title": " GTC Swap Free: mais liberdade para operar, mais lucro para você.",
+      "description": "Abra sua conta GTC hoje e negocie Swap Free sem limites. Mais controle, mais transparência, mais confiança para você operar."
+    },
+    "banner": {
+      "heading": "Com a GTC, Swap Free é real.",
+      "desc": "Sem taxas de rollover. Sem cobranças de juros. Apenas liberdade total para operar.",
+      "para1": "Corre que é por tempo limitado! Abra sua conta de trading GTC com a opção Swap Free garantida. Sem formulários, sem burocracia. Apenas crie sua conta e comece a operar. Seja mantendo operações à noite ou planejando movimentos de longo prazo, você não pagará nada em swaps. É a forma da GTC de te dar controle total para negociar sua estratégia, com transparência e sem pegadinhas.",
+      "column1": {
+        "title": "Swaps?",
+        "desc": "Nunca mais"
+      },
+      "column2": {
+        "title": "Sem limites",
+        "desc": "Ativado automaticamente"
+      },
+      "column3": {
+        "title": "Desbloqueie",
+        "desc": "Controle Total"
+      },
+      "column4": {
+        "title": "Ilimitado",
+        "desc": "Liberdade para negociar"
+      },
+      "btnText": "Negocie Swap Free"
+    },
+    "tcApply": "Aplicam-se T&C",
+    "whyPay": {
+      "heading": "Por que pagar swaps?",
+      "title": "Mude para a GTC e nunca mais pague taxas de swap!",
+      "para1": "Você não está apenas eliminando comissões, está liberando uma forma mais inteligente e vantajosa de negociar. É por isso que traders de todo o mundo já escolheram as contas Swap Free vitalícias da GTC:",
+      "card1": {
+        "title": "Mantenha operações por mais tempo",
+        "desc": "Sem pressão para fechar posições, fique o tempo que quiser."
+      },
+      "card2": {
+        "title": "Acesso direto aos mercados globais",
+        "desc": "De ouro a forex, tudo continua Swap Free."
+      },
+      "card3": {
+        "title": "Fique com mais lucro",
+        "desc": "Menos taxas = mais dinheiro no seu bolso."
+      },
+      "card4": {
+        "title": "Trading sem estresse",
+        "desc": "Sem cobranças inesperadas durante a noite. Negocie tranquilo e durma em paz."
+      },
+      "card5": {
+        "title": "Ativação Instantânea",
+        "desc": "Sem etapas extras. Sem formulários. Basta abrir sua conta e pronto."
+      },
+      "card6": {
+        "title": "Feito para todos",
+        "desc": "Seja iniciante no trading ou profissional, funciona para você."
+      },
+      "btnText": "Mude para a GTC"
+    },
+    "swapFree": {
+      "heading": "Swap Free garantido, sem limite de tempo.",
+      "desc": "Swap Free? Só na GTC. Vamos tornar isso realidade para você.",
+      "para1": "O upgrade mais simples que você já fez. Sem burocracia. Sem demora. Sem truques. Mude agora para a GTC e opere Swap Free sem limites.",
+      "card1": {
+        "title": "Abra sua conta",
+        "desc": "Digite seu nome e e-mail. Em menos de um minuto você está pronto."
+      },
+      "card2": {
+        "title": "Ativação Instantânea",
+        "desc": "Sua conta Swap Free fica ativa na hora, sem burocracia."
+      },
+      "card3": {
+        "title": "Acesse os Mercados Globais com Swap Free",
+        "desc": "De Forex a ouro e índices, sua conta já está pronta para operar Swap Free."
+      },
+      "card4": {
+        "title": "Mantenha. Negocie. Repita.",
+        "desc": "Operações curtas ou de longo prazo, sempre sem taxas."
+      },
+      "btnText": "GTC é Swap Free de verdade"
+    },
+    "readyToSwap": {
+      "heading": "Pronto para Negociar Swap Free?",
+      "desc": "Mude para a GTC hoje e negocie Swap Free sem limites! Mais do que segurança, você recebe todos os benefícios de uma conta GTC: spreads supercompetitivos, execução ultrarrápida e um atendimento ao cliente que realmente se importa com você.",
+      "btnText": "Mude para a GTC"
+    }
+  }
+}

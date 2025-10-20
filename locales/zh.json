@@ -1,0 +1,657 @@
+{
+  "menuItem": {
+    "whyJoin": "为何参加",
+    "howItWorks": "如何运作",
+    "competitionDetails": "比赛详情",
+    "termsConditions": "条款细则",
+    "register": "立即注册"
+  },
+  "partner": {
+    "comparisonTable": {
+      "title": "推荐交易者至GTC，他们将获得以下优势",
+      "cta": "立即推荐交易者",
+      "colHeader1": "功能对比",
+      "colHeader2": "其他经纪商",
+      "col1": {
+        "point1": "EURUSD平均点差",
+        "point2": "杠杆比例",
+        "point3": "出金时效",
+        "point4": "剥头皮规则",
+        "point5": "新闻时段滑点",
+        "point6": "服务质量",
+        "point7": "忠诚度奖励"
+      },
+      "col2": {
+        "point1": "3点",
+        "point2": "1:500",
+        "point3": "24小时",
+        "point4": "3分钟限制",
+        "point5": "显著增加",
+        "point6": "模板化回复",
+        "point7": "❌ 无"
+      },
+      "col3": {
+        "point1": "0点起",
+        "point2": "1:2000",
+        "point3": "即时到账（最快10小时）",
+        "point4": "1分钟限制",
+        "point5": "基本无变化",
+        "point6": "真人专属服务",
+        "point7": "✅ GTC VIP+保证金奖励"
+      }
+    },
+    "broker": {
+      "heading": "真正值得信赖的经纪商",
+      "paragraph": "我们绝非昙花一现。GTC在全球多个权威司法管辖区持牌受监管，以下是我们的信心保障：",
+      "points": {
+        "p1": "持有阿联酋证券商品局(SCA)、毛里求斯金融服务委员会(FSC)及南非金融行业行为监管局(FSCA)牌照",
+        "p2": "迪拜总部运营，服务全球近百万交易者",
+        "p3": "人性化的世界级客户支持",
+        "p4": "以客户为中心的服务文化"
+      },
+      "bottomTitle": "选择我们——用每日实践兑现承诺的经纪商",
+      "cta": "立即创收"
+    },
+    "form": {
+      "heading": "立即注册",
+      "closeAlt": "关闭弹窗",
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "电子邮箱",
+      "phone": "手机号码",
+      "country": "居住国家",
+      "otp": "验证码已发送至邮箱",
+      "getCode": "获取验证码",
+      "sending": "发送中...",
+      "sendOtp": "发送验证码",
+      "verifyCode": "验证验证码",
+      "termsLabel": "请接受条款和条件",
+      "termsText": "我确认已年满18岁，已阅读并同意",
+      "conset": "我同意GTC在合理时间联系我，且确认我的号码未登记在拒接来电名单(DNCR)中",
+      "clientAgreement": "客户协议",
+      "privacyPolicy": "隐私政策",
+      "submit": "立即提交",
+      "submitting": "提交中...",
+      "otpSuccess": "验证码验证成功！",
+      "otpFail": "验证失败，请重试！",
+      "thankYou1": "感谢您注册GTC！",
+      "otpSent": "验证码发送成功！",
+      "errors": {
+        "fullNameFormat": "姓名只能包含字母",
+        "firstNameRequired": "请输入名字",
+        "lastNameFormat": "姓氏只能包含字母",
+        "lastNameRequired": "请输入姓氏",
+        "emailInvalid": "邮箱格式不正确",
+        "emailRequired": "请输入邮箱",
+        "phoneRequired": "请输入手机号码",
+        "countryRequired": "请选择国家",
+        "otpLength": "验证码必须为6位数字",
+        "otpRequired": "请输入验证码",
+        "termsRequired": "请接受条款和条件"
+      },
+      "thankYou": "感谢",
+      "almostThere": "即将完成！",
+      "emailSent": "我们已向{email}发送邮件，说明后续步骤",
+      "checkSpam": "建议您检查垃圾邮件文件夹，有时邮件可能会被误分类。如发现邮件在垃圾文件夹中，请将其移回收件箱",
+      "seeYou": "期待与您相见！",
+      "helpSection": {
+        "title": "遇到问题？",
+        "phoneLabel": "联系我们",
+        "phone": "+971 800 667788",
+        "emailLabel": "或发送邮件至GTC合作伙伴团队",
+        "email": "partners@gtcfx.com"
+      }
+    }
+  },
+  "demo": {
+    "meta": {
+      "title": "参与GTC模拟交易赛，赢取$5000奖金！立即报名",
+      "description": "即刻注册GTC模拟交易大赛，赢取5000美元奖金！赛事将于2025年8月6日启动，切勿错过。"
+    },
+    "banner": {
+      "no": "$5,000",
+      "title": "模拟交易赛即将开启！",
+      "para1": "GTC",
+      "para2": "登顶交易排行榜，证明您的实力！参与GTC首届模拟交易赛，零成本赢取$5000实盘账户奖金。\n本赛事为纯模拟交易，无真实资金风险。点击报名，见证交易实力！",
+      "btnText": "立即报名"
+    },
+    "counter": {
+      "title": "GTC首届模拟交易赛开赛倒计时：",
+      "days": "天",
+      "hours": "小时",
+      "min": "分钟",
+      "sec": "秒"
+    },
+    "register": {
+      "title": "已注册参赛者名单",
+      "description": "以下为已报名GTC模拟交易大赛的交易者列表，查看即将参与挑战的选手社区！",
+      "table": {
+        "account": "账户编号",
+        "firstName": "名字",
+        "lastName": "姓氏",
+        "email": "电子邮箱",
+        "balance": "账户余额"
+      }
+    },
+    "payMore": {
+      "title": "参赛价值",
+      "intro": "这不是普通比赛，而是全球专业交易者的竞技舞台！原因如下：",
+      "cta": "即刻参与",
+      "features": {
+        "feature1": {
+          "title": "第一名奖金$3000 + 零成本",
+          "description": "使用模拟资金交易，赢取$5000实盘账户，无需入金即可参与"
+        },
+        "feature2": {
+          "title": "真实市场环境试炼",
+          "description": "在实时行情中验证交易策略，全程无风险！"
+        },
+        "feature3": {
+          "title": "权威排行榜见证实力",
+          "description": "与全球交易者同台竞技，排行榜每日更新，业绩数据透明呈现"
+        },
+        "feature4": {
+          "title": "自由交易机制",
+          "description": "使用1:500杠杆，交易外汇/贵金属/大宗商品，自由施展交易策略。"
+        },
+        "feature5": {
+          "title": "殊荣奖励双重加冕",
+          "description": "优胜者将获得：奖金账户、冠军奖杯、权威证书、GTC官方授誉"
+        },
+        "feature6": {
+          "title": "新老交易者皆宜",
+          "description": "无论您是新手还是资深交易者，都能在此展现实力！"
+        }
+      }
+    },
+    "work": {
+      "heading": "赛事运作机制",
+      "paragraph": "10秒快速注册 | 30日专业级交易 | 赢取丰厚实盘奖金！",
+      "list": {
+        "t1": {
+          "step": "第一步",
+          "name": "填写基础信息（姓名/邮箱）",
+          "stars": "快速注册，无需入金"
+        },
+        "t2": {
+          "step": "第二步",
+          "name": "领取$10000模拟账户",
+          "stars": "即时获取MT5模拟账户及参赛凭证"
+        },
+        "t3": {
+          "step": "第三步",
+          "name": "交易外汇/贵金属/大宗商品",
+          "stars": "15日交易窗口，全力冲刺"
+        },
+        "t4": {
+          "step": "第四步",
+          "name": "登顶排行榜\n",
+          "stars": "超越全球交易者，瓜分$5000实盘资金池"
+        },
+        "cta": "立即报名"
+      }
+    },
+    "detail": {
+      "title": "赛事细则",
+      "description": "关于模拟交易赛的完整参赛指南",
+      "competitionDetails": [
+        {
+          "title": "注册时段",
+          "content": [
+            "2025年8月6日（周三）至8月24日（周日）GMT 23:59",
+            "建议尽早注册熟悉MT5平台"
+          ]
+        },
+        {
+          "title": "赛程",
+          "content": [
+            "2025年8月25日（周一）至9月11日（周一）GMT 23:59\n完整15个交易日",
+            "完整14个交易日"
+          ]
+        },
+        {
+          "title": "参与方式",
+          "content": ["点击进入注册页面，成功报名后将收到："],
+          "list": [
+            "收取含$10000 GTC MT5模拟账户凭证的邮件",
+            "赛事期间外汇/贵金属/大宗商品交易权限",
+            "在GTC VIP平台查看实时排行榜"
+          ],
+          "note": "评奖要求：至少完成10笔交易"
+        },
+        {
+          "title": "$5000奖金池",
+          "list": [
+            "第1名 - $3000实盘账户",
+            "第2名 - $1500实盘账户",
+            "第3名 - $500实盘账户",
+            "第4-10名 $200信用赠金（需入金激活）"
+          ]
+        },
+        {
+          "content": ["开户入金享15%赠金"]
+        },
+        {
+          "content": ["所有参赛者可获电子证书"]
+        },
+        {
+          "title": "参赛协议",
+          "content": ["点击查看完整参赛协议"],
+          "linkText": "参赛协议",
+          "linkUrl": "https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/Demo+Trading+Competition+T%26Cs+_+Mandarin.pdf"
+        }
+      ]
+    },
+    "final-cta-section": {
+      "heading": "终极挑战宣言",
+      "description": "与全球交易高手同台竞技，赢取$5000实盘账户奖金！",
+      "buttonText": "锁定席位"
+    },
+    "form": {
+      "heading": "立即报名",
+      "closeAlt": "弹窗关闭按钮",
+      "firstName": "名字",
+      "lastName": "姓氏",
+      "email": "邮箱",
+      "phone": "手机号码",
+      "country": "居住国家",
+      "otp": "验证码已发送至邮箱",
+      "getCode": "获取验证码",
+      "sending": "发送中...",
+      "sendOtp": "发送验证码",
+      "verifyCode": "输入验证码",
+      "termsLabel": "请接受条款与条件",
+      "termsText": "点击“获取80%佣金”，即确认：年满18周岁\n已阅读并同意《客户协议》与《隐私政策》",
+      "conset": "同意GTC在合理时间联系本人\n确认号码未列入拒接来电名单(DNCR)",
+      "clientAgreement": "比赛条款细则",
+      "and1": "以及",
+      "privacyPolicy": "隐私政策",
+      "submit": "注册参赛",
+      "submitting": "提交中...",
+      "otpSuccess": "验证成功！",
+      "otpFail": "验证失败，请重试",
+      "thankYou1": "感谢注册GTC！",
+      "otpSent": "验证码发送成功！",
+      "errors": {
+        "fullNameFormat": "姓名仅可包含字母",
+        "firstNameRequired": "请输入名字",
+        "lastNameFormat": "姓氏仅可包含字母",
+        "lastNameRequired": "请输入姓氏",
+        "emailInvalid": "邮箱格式错误",
+        "emailRequired": "请输入邮箱",
+        "phoneRequired": "请输入手机号码",
+        "countryRequired": "请选择居住国家",
+        "otpLength": "验证码必须为6位数字",
+        "otpRequired": "请输入验证码",
+        "termsRequired": "请接受条款与条件"
+      },
+      "thankYou": "感谢",
+      "almostThere": "您已成功报名！",
+      "emailSent": "恭喜您成功报名GTC模拟交易赛！",
+      "para1": "即刻优化交易策略！可交易外汇、贵金属及大宗商品，杠杆比例为1:500，赛事全程15天。",
+      "para2": "每笔交易均影响最终排名，专业交易者与机遇把握者将同台竞技。",
+      "para3": "参赛凭证已发送至您的邮箱，如未收到建议检查垃圾邮件文件夹（若邮件被误判，请移回收件箱）",
+      "checkSpam": "开赛前您还将收到其它重要通知邮件。​​",
+      "seeYou": "祝您交易顺利",
+      "helpSection": {
+        "title": "客服支持",
+        "phoneLabel": "请联系",
+        "phone": "+971 800 667788",
+        "emailLabel": "合作邮箱",
+        "email": "support@gtcfx.com"
+      }
+    },
+    "thankYoumeta": {
+      "title": "GTC模拟交易赛备战指南！",
+      "description": "欢迎加入高绩效合作计划。GTC不仅提供高达80%返佣，更为您配备业务增长工具。"
+    }
+  },
+  "switchToGtc": {
+    "meta": {
+      "title": "更换至GTC  享更快出金与更低点差",
+      "description": "选择GTC，体验更低点差、即时出金、公平剥头皮规则及更优赠金\n与懂您的经纪商共启智能交易"
+    },
+    "banner": {
+      "subTitle": "您承受交易亏损 经纪商坐享返佣",
+      "title1": "您值得优于3点点差的交易环境",
+      "title2": "拒绝交易套路",
+      "title3": "每笔交易都该创造价值 而非仅成就他人",
+      "title4": "当前经纪商限制您的盈利潜力",
+      "para1": "选择真正以您为先的经纪商：  \n更快出金｜更窄点差｜更公平条款  \n您专注交易 其余交给我们",
+      "cta": "立即转户",
+      "list": {
+        "item1": "2点点差 vs 行业3点",
+        "item2": "即时&当日到账出金",
+        "item3": "60秒后允许剥头皮交易",
+        "item4": "重大新闻事件零滑点",
+        "item5": "真实返现保证金赠金",
+        "item6": "多重监管（SCA/FCA/ASIC）"
+      },
+      "tableHeading": "经纪商对比快照：您当前经纪商 vs GTC"
+    },
+    "bonusSection": {
+      "heading": "转户即享保证金赠金  提升实力而非空许希望",
+      "description1": "告别不可提现赠金与复杂条款，转投GTC并入金≥500美元，即赠等额保证金赠金，获取真实返现的额外交易保证金",
+      "description2": "交易外汇/黄金/金属/原油 → 达成返现目标",
+      "description3": "提取奖励",
+      "benefits": {
+        "benefit1": {
+          "text": "无套路"
+        },
+        "benefit2": {
+          "text": "无隐藏条款"
+        },
+        "benefit3": {
+          "text": "无权益混淆"
+        },
+        "benefit4": {
+          "text": "获取保证金赠金"
+        }
+      },
+      "buttonText": "立即转户"
+    },
+    "brokerSection": {
+      "subheading": "值得信赖的经纪商",
+      "paragraph": "GTC持有多国权威监管牌照：",
+      "listItems": {
+        "item1": {
+          "text": "阿联酋SCA｜毛里求斯FSC｜南非FSCA"
+        },
+        "item2": {
+          "text": "迪拜总部｜服务全球近百万交易者"
+        },
+        "item3": {
+          "text": "人性化顶级客户支持"
+        },
+        "item4": {
+          "text": "以服务为核心的企业文化"
+        }
+      },
+      "mainHeading": "选择言行如一的经纪商",
+      "buttonText": "立即转户"
+    },
+    "testimonialSection": {
+      "heading": "阿拉伯客户见证",
+      "description": "数千中东交易者之选：阿联酋/阿曼/卡塔尔/科威特/伊拉克/约旦/黎巴嫩  \n您换投GTC的时机已至",
+      "testimonials": {
+        "one": {
+          "text": "“选择GTC因其出金速度远超原经纪商。USDT即时到账？大赞！” ",
+          "name": "Mohammed A.",
+          "country": "阿联酋"
+        },
+        "two": {
+          "text": "“我专注剥头皮交易黄金，GTC是唯一无非常规时限的经纪商” ",
+          "name": "Omar S.",
+          "country": "卡塔尔"
+        },
+        "three": {
+          "text": "“前经纪商在新闻时段严重滑点。GTC执行精准，平台值得信赖”  ",
+          "name": "Hussein B.",
+          "country": "伊拉克"
+        },
+        "four": {
+          "text": "“GTC客服真人沟通，非冷冰冰的工单号，仅此就值得转户” ",
+          "name": "Abdullah K.",
+          "country": "黎巴嫩"
+        }
+      },
+      "buttonText": "立即转户"
+    },
+    "tradeSwitchSection": {
+      "heading": "立即转户丨今日即享更优交易",
+      "description1": "开通GTC账户仅需几分钟，即刻获取上述所有优势（含保证金赠金）",
+      "description2": "告别当前经纪商的挫败体验 \n迎接高效交易、更高回报、完全透明 ",
+      "buttonText": "立即转户"
+    },
+    "confirmationThankYou": {
+      "heading": "感谢{nickname}！  ",
+      "subheading": "即将完成",
+      "description1": "我们已发送说明邮件至{email}  ",
+      "description2": "建议检查垃圾邮件文件夹（邮件可能被误判），若邮件进入垃圾箱，请移回收件箱",
+      "farewell": "期待为您服务！ "
+    }
+  },
+  "footer": {
+    "riskWarningTitle": "风险警告：",
+    "riskWarningText": "交易杠杆产品（如差价合约CFDs）具有高风险，可能不适合所有投资者。您可能损失超过初始投资金额。请确保您完全理解相关风险，必要时咨询独立顾问。",
+    "company1": "GTC通过多个受监管实体运营：GTC Global Ltd（受毛里求斯金融服务委员会FSC监管，牌照号GB22200292）；GTC Global Pty Ltd（受澳大利亚证券投资委员会ASIC监管）；GTC Global Trade Capital Co., Limited（注册于瓦努阿图并受瓦努阿图金融服务委员会VFSC许可）",
+    "company2": "GTC不向当地法律禁止提供此类服务的司法管辖区提供服务。",
+    "affiliateNoticeTitle": "联盟合作伙伴声明：",
+    "affiliateNoticeText": "联盟/合作伙伴内容仅用于推荐和营销目的，不构成财务建议。"
+  },
+  "privacyPolicy": {
+    "meta": {
+      "title": "隐私政策 - GTC | 受监管的外汇和差价合约经纪商",
+      "description": "阅读GTCFX的隐私政策，了解我们如何在瓦努阿图、毛里求斯和阿联酋的受监管平台上收集、使用和保护您的个人数据。"
+    },
+    "header": {
+      "title": "隐私政策",
+      "subtitle": "保护您在GTC所有平台和子域中的信息"
+    },
+    "whoWeAre": {
+      "title": "我们是谁",
+      "intro1": "本隐私政策适用于GTC及其所有子域（如reg.gtcfx.com及其他GTC相关子域），涵盖我们如何处理您的个人信息。",
+      "intro2": "当提及“GTC”、“GTCFX”、“GTC VIP”、“我们”或“我们的”时，指以下实体：",
+      "entity1": {
+        "title": "GTC Global Trade Capital Co. Ltd",
+        "line1": "获瓦努阿图金融服务委员会(VFSC)授权",
+        "line2": "牌照号：40354",
+        "line3": "地址：瓦努阿图维拉港Kumul Highway, B&P House一楼"
+      },
+      "entity2": {
+        "title": "GTC Global Ltd",
+        "line1": "获毛里求斯金融服务委员会授权",
+        "line2": "牌照号：GB22200292",
+        "line3": "地址：毛里求斯埃本尼Cybercity 40号The Catalyst大楼G层The Cyberati Lounge"
+      }
+    },
+    "ourCommitment": {
+      "title": "我们的承诺",
+      "description": "在GTC，您的隐私不仅是必选项，更是我们的首要任务。我们致力于保护您的个人数据，并完全透明地说明其在我们所有平台上的收集、使用和保护方式。",
+      "subheading": "本政策阐明：",
+      "point": {
+        "one": "我们收集哪些个人数据",
+        "two": "为何收集这些数据",
+        "three": "如何保护数据",
+        "four": "您的权利及行使方式"
+      }
+    },
+    "personalData": {
+      "title": "我们收集的个人数据",
+      "intro": "当您与GTC互动时（无论是开户、访问网站或在落地页注册），我们可能收集：",
+      "personal": {
+        "title": "个人信息",
+        "items": {
+          "one": "全名、出生日期地点、性别和国籍",
+          "two": "联系方式：电子邮件、电话号码、居住地址",
+          "three": "职业和收入详情"
+        }
+      },
+      "financial": {
+        "title": "财务与技术数据",
+        "items": {
+          "one": "财务信息：银行账户、资金来源、交易历史",
+          "two": "身份文件：护照、驾照、身份证",
+          "three": "交易偏好和表现",
+          "four": "IP地址、设备信息、Cookies及平台使用数据"
+        }
+      },
+      "note": "我们可能记录电话和聊天内容用于合规及培训"
+    },
+    "howWeUse": {
+      "title": "信息使用方式",
+      "description": "我们仅在合法理由下使用您的数据：",
+      "points": {
+        "one": "提供服务：开设和管理交易账户",
+        "two": "履行法律义务：包括反洗钱和监管要求",
+        "three": "保护商业利益：改进平台、分析用户行为、管理风险",
+        "four": "经您同意：用于电子邮件营销和专属网络研讨会邀请",
+        "five": "客户支持：处理请求或解决问题",
+        "six": "优化网站体验：使用Cookies、地理位置和会话跟踪",
+        "seven": "记录保存：用于审计、法律和税务目的"
+      },
+      "footer": "我们绝不会出售您的数据"
+    },
+    "whoWeShare": {
+      "title": "数据共享对象",
+      "description": "您的数据可能与以下方共享：",
+      "items": {
+        "one": "其他GTC实体（如瓦努阿图和毛里求斯的受监管机构）",
+        "two": "支付提供商和身份验证服务",
+        "three": "法律、合规和金融服务合作伙伴",
+        "four": "法律要求的监管机构",
+        "five": "营销工具（绝不用于第三方营销）"
+      },
+      "footer": "我们仅按需共享数据，并确保第三方符合严格的数据保护标准"
+    },
+    "cookiesTracking": {
+      "title": "Cookies与跟踪技术",
+      "description": "我们在所有GTCFX域名（如https://gtcfx.com, https://gtcvip.com等）使用Cookies和跟踪技术以：",
+      "points": {
+        "one": "记住您的偏好",
+        "two": "显示相关内容",
+        "three": "分析网站使用情况",
+        "four": "开展再营销活动"
+      },
+      "footer": "您可通过浏览器管理Cookie设置，详见我们的",
+      "linkText": "Cookie政策"
+    },
+    "internationalTransfers": {
+      "title": "国际数据传输",
+      "description": "因全球运营需要，您的数据可能在欧洲经济区(EEA)外处理。我们将通过符合GDPR的合同等保障措施，确保数据安全标准与欧盟法律一致"
+    },
+    "yourRights": {
+      "title": "您的权利",
+      "description": "根据数据保护法您享有以下权利：",
+      "points": {
+        "one": "访问您的数据",
+        "two": "更新或更正数据",
+        "three": "当我们不再需要时要求删除",
+        "four": "限制使用方式",
+        "five": "随时撤回同意",
+        "six": "要求将数据转移至其他服务商",
+        "seven": "拒绝营销或数据画像"
+      },
+      "footer": "行使权利请联系：",
+      "email": "support@gtcfx.com"
+    },
+    "dataRetention": {
+      "title": "数据保留",
+      "intro": "我们将在以下期限保留数据：",
+      "points": {
+        "one": {
+          "icon": "∞",
+          "text": "账户有效期内持续保留"
+        },
+        "two": {
+          "icon": "5+",
+          "text": "账户关闭后至少保留5年（满足反洗钱和监管要求）"
+        },
+        "three": {
+          "icon": "⚖️",
+          "text": "法律、税务或争议需要时延长保留"
+        }
+      }
+    },
+    "dataSafety": {
+      "title": "数据安全保障",
+      "description": "我们将数据存储于安全服务器，限制员工访问权限，并定期开展数据保护培训。同时采用加密技术、访问控制和严格监控确保数据安全"
+    },
+    "policyUpdates": {
+      "title": "政策更新",
+      "description": "我们可能不时更新本政策，所有更新将在gtcfx.com及相关子域公布"
+    },
+    "contact": {
+      "title": "联系我们",
+      "description": "有疑问或需行使数据权利？",
+      "buttonText": "发送邮件至 support@gtcfx.com",
+      "email": "support@gtcfx.com"
+    }
+  },
+ "swapFreePage": {
+    "meta": {
+      "title": "开通GTC免掉期账户，赚取更多利润",
+      "description": "立即开通GTC账户，终身享受免掉期交易！彻底告别隔夜费用，无隐藏成本，尽享纯粹交易自由。"
+    },
+    "banner": {
+      "heading": "GTC终身免掉期交易",
+      "desc": "零展期费用，零利息支出，交易自由永相随",
+      "para1": "限时特惠：开通即享终身免掉期！\n免申请、免填表——开户成功自动生效。无论短线操作还是长线布局，完全告别掉期费用。您拥有100%交易自主权，无隐藏费用，无附加条件。",
+      "column1": {
+        "title": "掉期费用？",
+        "desc": "不复存在"
+      },
+      "column2": {
+        "title": "永久有效",
+        "desc": "自动生效"
+      },
+      "column3": {
+        "title": "完全掌控",
+        "desc": "自主交易"
+      },
+      "column4": {
+        "title": "无限可能",
+        "desc": "交易自由"
+      },
+      "btnText": "立即体验免掉期"
+    },
+    "tcApply": "适用条款与条件",
+    "whyPay": {
+      "heading": "还在支付掉期费？",
+      "title": "立即转户至GTC，永久免掉期！",
+      "para1": "不仅是节省费用，更是交易智慧的升级！全球交易者选择GTC永久免掉期账户的六大理由：",
+      "card1": {
+        "title": "自由持仓",
+        "desc": "无平仓压力，任意延长交易周期"
+      },
+      "card2": {
+        "title": "全球市场",
+        "desc": "从黄金到外汇，全品种免掉期"
+      },
+      "card3": {
+        "title": "利润最大化",
+        "desc": "成本降低，收益提升"
+      },
+      "card4": {
+        "title": "无忧策略",
+        "desc": "再无隔夜费用困扰，高枕无忧"
+      },
+      "card5": {
+        "title": "即刻生效",
+        "desc": "零手续，开户即用"
+      },
+      "card6": {
+        "title": "全民适用",
+        "desc": "新手专家皆可畅享"
+      },
+      "btnText": "转户至GTC"
+    },
+    "swapFree": {
+      "heading": "终身免掉期？",
+      "desc": "GTC交易账户可实现，让我们为您一键实现",
+      "para1": "这可能是您做过最简单的升级，无需填表、无需等待、无隐藏条款。按照以下步骤即可享受GTC永久免掉期交易：",
+      "card1": {
+        "title": "快速开户",
+        "desc": "仅需填写姓名与邮箱，一分钟极速完成"
+      },
+      "card2": {
+        "title": "自动生效",
+        "desc": "账户开通时，免掉期特权自动激活"
+      },
+      "card3": {
+        "title": "全市场交易",
+        "desc": "外汇、黄金、指数等多品种0成本交易\n"
+      },
+      "card4": {
+        "title": "持久获利",
+        "desc": "长线短线各种策略，全程零费用"
+      },
+      "btnText": "立即开启免掉期交易"
+    },
+    "readyToSwap": {
+      "heading": "准备好体验免掉期交易了吗？",
+      "desc": "立即转户至GTC，终身享免掉期！\n更可享GTC独家优势：超低点差、极速执行、真正的VIP服务！",
+      "btnText": "立即转户至GTC"
+    }
+  }
+}
