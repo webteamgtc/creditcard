@@ -103,11 +103,11 @@ export default function LoginForm({ onLogin }) {
   };
 
   return (
-    <div className="min-h-screen w-full flex items-center justify-center bg-slate-50 px-4">
+    <div class="relative min-h-screen w-full flex flex-col items-center justify-center bg-gradient-to-br from-[#0B1A68] via-[#141B3A] to-[#0B1A68] p-2 md:p-6">
       <section className={`w-full max-w-md ${card}`}>
         <div className={header}>
           <h3 className="text-sm font-semibold text-slate-800">
-            Sign in to your account
+            Please Enter Your Login Details
           </h3>
         </div>
 
@@ -122,7 +122,7 @@ export default function LoginForm({ onLogin }) {
               type="email"
               autoComplete="username"
               className={inputBase}
-              placeholder="name@company.com"
+              placeholder="Please enter your email"
               value={email}
               onChange={(e) => setEmail(e.target.value.trimStart())}
             />

@@ -64,9 +64,10 @@ export default function WsbDemoPage() {
     console.log({ data })
 
     return (
+        
         <div className="max-w-5xl mx-auto px-6 py-10">
-            <h1 className="text-3xl font-bold text-center mb-8 bg-gradient-to-r from-[#E1CFBB] to-[#956D42] text-transparent bg-clip-text">
-                Wasabi Card Management Wizard
+            <h1 className="text-3xl font-bold text-center mb-8 bg-gradient-to-r from-[#2b307b] to-[#1f2052] text-transparent bg-clip-text">
+                GTCFX Credit Card Activation
             </h1>
 
             {/* Step Progress Bar */}
