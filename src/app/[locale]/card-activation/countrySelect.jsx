@@ -121,9 +121,9 @@ export default function CountryTownSelect({
     return (
         <div className="space-y-3">
             <div>
-                <label className="block text-sm font-medium mb-1">{labelCountry}</label>
+                <label className="text-[13px] font-medium text-slate-700">{labelCountry}</label>
                 <select
-                    className="border p-2 w-full"
+                    className="border p-2 block w-full rounded-lg border-slate-200 bg-white px-3.5 py-2.5 text-[14px] text-slate-900 placeholder:text-slate-400 focus:border-slate-400 focus:outline-none focus:ring-4 focus:ring-slate-100 disabled:opacity-60"
                     value={country}
                     onChange={handleCountryChange}
                     required={required}
@@ -139,9 +139,9 @@ export default function CountryTownSelect({
             </div>
 
             <div>
-                <label className="block text-sm font-medium mb-1">{labelTown}</label>
+                <label className="text-[13px] font-medium text-slate-700">{labelTown}</label>
                 <select
-                    className="border p-2 w-full"
+                    className="border p-2 w-full block rounded-lg border-slate-200 bg-white px-3.5 py-2.5 text-[14px] text-slate-900 placeholder:text-slate-400 focus:border-slate-400 focus:outline-none focus:ring-4 focus:ring-slate-100 disabled:opacity-60"
                     value={town}
                     onChange={handleTownChange}
                     disabled={!country || loadingCities}
