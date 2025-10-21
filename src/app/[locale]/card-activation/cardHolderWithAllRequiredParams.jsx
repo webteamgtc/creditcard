@@ -446,20 +446,20 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
   async function fetchCardTypes() {
     setLoadingTypes(true);
-    try {
-      const res = await fetch("/api/wsb/card-types", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ pageNum: 1, pageSize: 100 }),
-      });
-      const json = await res.json();
-      const list = Array.isArray(json?.data) ? json.data : Array.isArray(json) ? json : [];
-      setCardTypes(list);
-    } catch (e) {
-      console.error("card types error", e);
-    } finally {
-      setLoadingTypes(false);
-    }
+    // try {
+    //   const res = await fetch("/api/wsb/card-types", {
+    //     method: "POST",
+    //     headers: { "Content-Type": "application/json" },
+    //     body: JSON.stringify({ pageNum: 1, pageSize: 100 }),
+    //   });
+    //   const json = await res.json();
+    //   const list = Array.isArray(json?.data) ? json.data : Array.isArray(json) ? json : [];
+    //   setCardTypes(list);
+    // } catch (e) {
+    //   console.error("card types error", e);
+    // } finally {
+    //   setLoadingTypes(false);
+    // }
     try {
       const res = await fetch("/api/wsb/area-code", {
         method: "POST",
@@ -501,9 +501,9 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
     const f = new FormData(e.currentTarget);
     const payload = {
-      cardHolderModel: String(f.get("cardHolderModel") || "B2B"),
+      cardHolderModel: "B2B",
       merchantOrderNo: String(f.get("merchantOrderNo") || ""),
-      cardTypeId: selectedType,
+      cardTypeId: 111030,
       areaCode: mobileCode || "",
       mobile: f.get("mobile") || "",
       email: String(f.get("email") || ""),
@@ -583,7 +583,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
   return (
     <div className="mx-auto w-full space-y-6">
-      <section className={card}>
+      {/* <section className={card}>
         <div className={header}>
           <h3 className="text-sm font-semibold text-slate-800">Select Card Type</h3>
         </div>
@@ -603,7 +603,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
           <input type="hidden" name="cardTypeId" value={selectedType || ""} />
         </div>
-      </section>
+      </section> */}
 
       {/* Form */}
       <section className={card}>
@@ -612,8 +612,8 @@ export default function WasabiCardFlow({ setStep, setData }) {
         </div>
 
         <form onSubmit={createHolder} className="grid gap-4 p-5">
-          <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
-            <div>
+          <div className="grid grid-cols-1 gap-4 md:grid-cols-1">
+            {/* <div>
               <label className={labelBase} htmlFor="cardHolderModel">Cardholder Model</label>
               <input
                 id="cardHolderModel"
@@ -621,6 +621,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
                 defaultValue="B2B"
                 placeholder="e.g., B2B"
                 className={inputBase}
+                disabled
                 required
               />
               {errors.cardHolderModel ? (
@@ -628,7 +629,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
               ) : (
                 <p className={helpBase}>Usually <span className="font-medium">B2B</span>.</p>
               )}
-            </div>
+            </div> */}
 
             <div>
               <label className={labelBase} htmlFor="merchantOrderNo">Merchant Order No</label>

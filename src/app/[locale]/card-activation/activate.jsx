@@ -153,7 +153,7 @@ export default function WsbActivateCardForm({ data, setData, setStep, setSuccess
 
             <form onSubmit={onSubmit} className="grid gap-4 p-5">
                 {/* merchantOrderNo */}
-                <div>
+                {/* <div>
                     <label className={labelBase} htmlFor="merchantOrderNo">
                         Merchant Order No
                     </label>
@@ -175,10 +175,10 @@ export default function WsbActivateCardForm({ data, setData, setStep, setSuccess
                         )}
                         <p className="text-[11px] text-slate-400">{orderLen}/40</p>
                     </div>
-                </div>
+                </div> */}
 
                 {/* cardNo */}
-                <div>
+                {/* <div>
                     <label className={labelBase} htmlFor="cardNo">
                         Card Number
                     </label>
@@ -196,7 +196,7 @@ export default function WsbActivateCardForm({ data, setData, setStep, setSuccess
                     ) : (
                         <p className={helpBase}>Enter the exact physical card number.</p>
                     )}
-                </div>
+                </div> */}
 
                 {/* pin */}
                 <div>
