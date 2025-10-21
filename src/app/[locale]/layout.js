@@ -59,7 +59,6 @@ export default function RootLayout({
         {/* your app */}
         <NextIntlClientProvider>{children}</NextIntlClientProvider>
         <ToastContainer autoClose={3000} />
-        <CookieConsent />
              <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PSWH9QF"
