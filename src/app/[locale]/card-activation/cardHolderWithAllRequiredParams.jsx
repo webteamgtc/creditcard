@@ -803,14 +803,14 @@ export default function WasabiCardFlow({ setStep, setData }) {
           </div>
         </form>
 
-        {holderResp && (
+        {/* {holderResp && (
           <div className="border-t border-slate-200 p-5">
             <p className="mb-2 text-sm font-medium text-slate-800">Server Response</p>
             <pre className="max-h-80 overflow-auto rounded-lg bg-slate-50 p-3 text-xs text-slate-700">
               {JSON.stringify(holderResp, null, 2)}
             </pre>
           </div>
-        )}
+        )} */}
       </section>
     </div>
   );
