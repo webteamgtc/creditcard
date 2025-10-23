@@ -412,6 +412,7 @@ export default function WsbOpenCardForm({ data, setData, setStep }) {
       merchantOrderNo: data?.merchantOrderNo || "",
       cardTypeId: data?.cardTypeId || undefined,
       holderId: data?.holderId || undefined,
+      type: "Physical",
       amount: form.get("amount") ? Number(form.get("amount")) : undefined,
       cardNumber: form.get("cardNumber") ? String(form.get("cardNumber")) : undefined,
     };

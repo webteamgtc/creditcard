@@ -446,20 +446,20 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
   async function fetchCardTypes() {
     setLoadingTypes(true);
-    // try {
-    //   const res = await fetch("/api/wsb/card-types", {
-    //     method: "POST",
-    //     headers: { "Content-Type": "application/json" },
-    //     body: JSON.stringify({ pageNum: 1, pageSize: 100 }),
-    //   });
-    //   const json = await res.json();
-    //   const list = Array.isArray(json?.data) ? json.data : Array.isArray(json) ? json : [];
-    //   setCardTypes(list);
-    // } catch (e) {
-    //   console.error("card types error", e);
-    // } finally {
-    //   setLoadingTypes(false);
-    // }
+    try {
+      const res = await fetch("/api/wsb/card-types", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ pageNum: 1, pageSize: 100 }),
+      });
+      const json = await res.json();
+      const list = Array.isArray(json?.data) ? json.data : Array.isArray(json) ? json : [];
+      setCardTypes(list);
+    } catch (e) {
+      console.error("card types error", e);
+    } finally {
+      setLoadingTypes(false);
+    }
     try {
       const res = await fetch("/api/wsb/area-code", {
         method: "POST",
@@ -583,7 +583,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
   return (
     <div className="mx-auto w-full space-y-6">
-      {/* <section className={card}>
+      <section className={card}>
         <div className={header}>
           <h3 className="text-sm font-semibold text-slate-800">Select Card Type</h3>
         </div>
@@ -603,7 +603,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
 
           <input type="hidden" name="cardTypeId" value={selectedType || ""} />
         </div>
-      </section> */}
+      </section>
 
       {/* Form */}
       <section className={card}>
