@@ -503,7 +503,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
     const payload = {
       cardHolderModel: "B2B",
       merchantOrderNo: String(f.get("merchantOrderNo") || ""),
-      cardTypeId: 111030,
+      cardTypeId: selectedType,
       areaCode: mobileCode || "",
       mobile: f.get("mobile") || "",
       email: String(f.get("email") || ""),
