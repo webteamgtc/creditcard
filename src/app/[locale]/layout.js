@@ -57,10 +57,9 @@ export default function RootLayout({ children, params }) {
    
  
         {/* App content */}
-        <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        <NextIntlClientProvider>{children}</NextIntlClientProvider> 
         <ToastContainer autoClose={3000} />
         <CookieConsent />
-
         <noscript>
      
         </noscript>
