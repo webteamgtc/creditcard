@@ -557,10 +557,8 @@ export default function WasabiCardFlow({ setStep, setData }) {
         body: JSON.stringify(payload),
       });
       const json = await res.json();
-      console.log(json)
 
       if (json?.success) {
-        setHolderResp(json);
         setStep(2)
         toast.success(json.msg)
         setData(st => ({
@@ -573,6 +571,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
       }
     } catch (err) {
       setHolderResp({ success: false, msg: String(err) });
+      toast.error(String(err))
     } finally {
       setCreatingHolder(false);
     }
@@ -803,14 +802,14 @@ export default function WasabiCardFlow({ setStep, setData }) {
           </div>
         </form>
 
-        {/* {holderResp && (
+        {holderResp && (
           <div className="border-t border-slate-200 p-5">
             <p className="mb-2 text-sm font-medium text-slate-800">Server Response</p>
             <pre className="max-h-80 overflow-auto rounded-lg bg-slate-50 p-3 text-xs text-slate-700">
               {JSON.stringify(holderResp, null, 2)}
             </pre>
           </div>
-        )} */}
+        )}
       </section>
     </div>
   );
