@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export default function CardHolderList() {
+export default function CardHolderList({ setData }) {
     const [loading, setLoading] = useState(false);
     const [resp, setResp] = useState(null);
     const [error, setError] = useState("");
@@ -52,8 +52,6 @@ export default function CardHolderList() {
 
     const total = resp?.data?.total ?? rows.length;
 
-    console.log({rows})
-
     return (
         <section className="border p-4 rounded space-y-3">
             <h3 className="font-semibold">Cardholder List</h3>
@@ -95,14 +93,28 @@ export default function CardHolderList() {
                     onChange={(e) => setPageSize(e.target.value)}
                 />
             </div>
-
-            <button
-                onClick={fetchHolders}
-                className="px-4 py-2 bg-black text-white rounded"
-                disabled={loading}
-            >
-                {loading ? "Loading..." : "Fetch Cardholders"}
-            </button>
+            <div className=" flex justify-between">
+                <button
+                    onClick={fetchHolders}
+                    className="px-4 py-2 bg-black text-white rounded"
+                    disabled={loading}
+                >
+                    {loading ? "Loading..." : "Fetch Cardholders"}
+                </button>
+                <button
+                    onClick={() => {
+                        const findData = rows?.find(x => x?.email == email)
+                        setData(st => ({
+                            ...st,
+                            ...findData
+                        }))
+                    }}
+                    className="px-4 py-2 bg-black text-white rounded"
+                    disabled={loading}
+                >
+                    Set Data
+                </button>
+            </div>
 
             {error ? <p className="text-sm text-red-600">{error}</p> : null}
 
