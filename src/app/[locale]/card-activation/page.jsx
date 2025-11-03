@@ -95,7 +95,7 @@ export default function WsbDemoPage() {
           </div>
           <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
             <h2 className="text-xl font-semibold mb-3">Find Card No. from Transactions (Dev Mode)</h2>
-            <FindCardNoFromTransactions />
+            <FindCardNoFromTransactions setData={setData}/>
           </div>
         </div>
       )}

@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export default function FindCardNoFromTransactions() {
+export default function FindCardNoFromTransactions({ setData }) {
     const [loading, setLoading] = useState(false);
     const [out, setOut] = useState(null);
     const [err, setErr] = useState("");
@@ -58,6 +58,8 @@ export default function FindCardNoFromTransactions() {
         }
     }
 
+    console.log(out)
+
     return (
         <section className="border p-4 rounded space-y-3">
             <h3 className="font-semibold">Find CardNo via Transactions</h3>
@@ -68,10 +70,27 @@ export default function FindCardNoFromTransactions() {
                     placeholder="merchantOrderNo from openCard"
                     required
                 />
-                <button className="px-3 py-2 bg-black text-white rounded" disabled={loading}>
-                    {loading ? "Searching..." : "Search"}
-                </button>
+                <div className=" flex justify-between items-center">
+                    <button className="px-3 py-2 bg-black text-white rounded" disabled={loading}>
+                        {loading ? "Searching..." : "Search"}
+                    </button>
+                   
+                </div>
             </form>
+
+             <button
+                        type="default"
+                        onClick={() => {
+                            setData(st => ({
+                                ...st,
+                                cardNo: out?.raw?.data?.records?.[0]?.cardNo || "",
+                            }))
+                        }}
+                        className="px-4 py-2 bg-black text-white rounded"
+                        disabled={loading}
+                    >
+                        Set Data
+                    </button>
 
             {err && <p className="text-sm text-red-600">{err}</p>}
 
