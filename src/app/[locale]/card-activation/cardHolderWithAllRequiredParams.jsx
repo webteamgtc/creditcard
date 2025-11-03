@@ -558,7 +558,7 @@ export default function WasabiCardFlow({ setStep, setData }) {
       });
       const json = await res.json();
 
-      if (json?.success) {
+      if (json?.success && json?.code == 200) {
         setStep(2)
         toast.success(json.msg)
         setData(st => ({
