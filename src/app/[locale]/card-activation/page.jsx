@@ -39,6 +39,7 @@ import WsbActivateCardForm from "./activate";
 import CardHolderList from "./cardHolderList";
 import FindCardNoFromTransactions from "./transcation";
 import StatusMessage from "./SuccessMessage";
+import WebDepositBalanceForm from "./depositBalance";
 
 export default function WsbDemoPage() {
   const [success, setSuccess] = useState(false);
@@ -67,8 +68,6 @@ export default function WsbDemoPage() {
   }, [router]);
 
   const noopSetStep = () => {}; // keep children untouched
-
-  console.log({data})
 
   return (
     <div className="max-w-5xl mx-auto px-6 py-10">
@@ -120,7 +119,7 @@ export default function WsbDemoPage() {
       </div>
 
       {/* Activate Card Form */}
-      <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
+      <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6 mb-6">
         <h2 className="text-xl font-semibold mb-3">Activate Card</h2>
         <p className="text-sm text-gray-600 mb-6">
           Use the card number and activation code to activate the card.
@@ -133,9 +132,19 @@ export default function WsbDemoPage() {
         />
       </div>
 
-      <p className="text-xs text-gray-500 mt-6 text-center">
-        Add <code>?mode=dev</code> to the URL to enable developer utilities.
-      </p>
+        {/* Deposit Card Balance */}
+      <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
+        <h2 className="text-xl font-semibold mb-3">Depost Balance</h2>
+        <p className="text-sm text-gray-600 mb-6">
+          Use the card number to deposit the card balance.
+        </p>
+        <WebDepositBalanceForm
+          setData={setData}
+          setStep={noopSetStep}
+          data={data}
+          setSuccess={setSuccess}
+        />
+      </div>
     </div>
   );
 }

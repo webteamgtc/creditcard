@@ -129,7 +129,6 @@ export default function WsbActivateCardForm({ data, setData, setStep, setSuccess
             });
             const json = await res.json();
             if (json?.success) {
-                setData(null)
                 toast.success(json?.msg)
                 setResp(json);
                 setSuccess(true)
