@@ -25,9 +25,6 @@
 // //     );
 // // }
 
-
-
-
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "@/i18n/navigation";
@@ -40,6 +37,7 @@ import CardHolderList from "./cardHolderList";
 import FindCardNoFromTransactions from "./transcation";
 import StatusMessage from "./SuccessMessage";
 import WebDepositBalanceForm from "./depositBalance";
+import UpdateHolderForm from "./updateHolder";
 
 export default function WsbDemoPage() {
   const [success, setSuccess] = useState(false);
@@ -90,12 +88,22 @@ export default function WsbDemoPage() {
       {isDev && (
         <div className="grid gap-6 mb-10">
           <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
-            <h2 className="text-xl font-semibold mb-3">Card Holder List (Dev Mode)</h2>
-            <CardHolderList setData={setData}/>
+            <h2 className="text-xl font-semibold mb-3">
+              Card Holder List (Dev Mode)
+            </h2>
+            <CardHolderList setData={setData} />
           </div>
           <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
-            <h2 className="text-xl font-semibold mb-3">Find Card No. from Transactions (Dev Mode)</h2>
-            <FindCardNoFromTransactions setData={setData}/>
+            <h2 className="text-xl font-semibold mb-3">
+              Find Card No. from Transactions (Dev Mode)
+            </h2>
+            <FindCardNoFromTransactions setData={setData} />
+          </div>
+          <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
+            <h2 className="text-xl font-semibold mb-3">
+              Update Holder Form (Dev Mode)
+            </h2>
+            <UpdateHolderForm setData={setData} />
           </div>
         </div>
       )}
@@ -132,7 +140,7 @@ export default function WsbDemoPage() {
         />
       </div>
 
-        {/* Deposit Card Balance */}
+      {/* Deposit Card Balance */}
       <div className="bg-white/90 shadow-lg rounded-2xl border border-gray-100 p-6">
         <h2 className="text-xl font-semibold mb-3">Depost Balance</h2>
         <p className="text-sm text-gray-600 mb-6">
@@ -148,9 +156,6 @@ export default function WsbDemoPage() {
     </div>
   );
 }
-
-
-
 
 // "use client";
 // import { useEffect, useState } from "react";
@@ -190,7 +195,7 @@ export default function WsbDemoPage() {
 //     console.log({ data })
 
 //     return (
-        
+
 //         <div className="max-w-5xl mx-auto px-6 py-10">
 //             <h1 className="text-3xl font-bold text-center mb-8 bg-gradient-to-r from-[#2b307b] to-[#1f2052] text-transparent bg-clip-text">
 //                 GTCFX Credit Card Activation
